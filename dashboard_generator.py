@@ -2,7 +2,6 @@ import requests
 import json
 from datetime import datetime, timezone, timedelta
 
-# -------------------- CONFIG --------------------
 BINANCE_BASE = "https://api.binance.com/api/v3"
 COINGECKO_BASE = "https://api.coingecko.com/api/v3"
 PAIRS = ["BTCUSDT", "ETHUSDT"]
@@ -10,9 +9,8 @@ SWEEP_MIN_PERCENT = 0.2
 VOLUME_SPIKE_THRESHOLD = 2.0
 TOP_N_MOMENTUM = 15
 OUTPUT_HTML = "dashboard.html"
-# -------------------------------------------------
 
-# ---------- Binance Helpers (Liquidity Sweep) ----------
+# ---------- Binance Helpers (same as generate_signal.py) ----------
 def get_klines(symbol, interval, limit=100):
     url = f"{BINANCE_BASE}/klines"
     params = {"symbol": symbol, "interval": interval, "limit": limit}
@@ -120,7 +118,7 @@ def generate_signal(pair):
         "tp2": round(tp2, 4)
     }
 
-# ---------- CoinGecko Helpers (Whale/Momentum) ----------
+# ---------- CoinGecko Helpers (same as whale_scanner.py) ----------
 def get_top_100():
     url = f"{COINGECKO_BASE}/coins/markets"
     params = {"vs_currency":"usd","order":"market_cap_desc","per_page":100,"page":1,
@@ -178,13 +176,10 @@ def get_doublers(coins):
 def generate_html(signals, momentum, trending, anomalies, doublers):
     now_utc = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
     
-    # Prepare chart data
     mom_names = [c["name"] for c in momentum[:15]]
     mom_changes = [c.get("price_change_percentage_7d_in_currency") or 0 for c in momentum[:15]]
-    mom_vol_mcap = [c.get("total_volume",0)/c.get("market_cap",1) for c in momentum[:15]]
     anom_names = [a["name"] for a in anomalies[:10]]
     anom_ratios = [a["ratio"] for a in anomalies[:10]]
-    anom_changes = [a["change_7d"] for a in anomalies[:10]]
 
     html = f"""<!DOCTYPE html>
 <html lang="en">
@@ -225,33 +220,27 @@ def generate_html(signals, momentum, trending, anomalies, doublers):
   <h1>🔮 Crypto Intelligence Dashboard</h1>
   <div class="date">📅 {now_utc}</div>
 
-  <!-- TRADE SIGNALS -->
   <div class="card">
     <h2>🚦 Liquidity Sweep Trade Signals</h2>
     {generate_signal_html(signals)}
   </div>
 
   <div class="grid-2">
-    <!-- WHALE ANOMALIES -->
     <div class="card">
       <h2>🐋 Whale Volume Anomalies</h2>
       {generate_anomaly_html(anomalies, anom_names, anom_ratios)}
     </div>
-
-    <!-- TRENDING -->
     <div class="card">
       <h2>🔥 Trending Coins (Search Surge)</h2>
       {generate_trending_html(trending)}
     </div>
   </div>
 
-  <!-- MOMENTUM -->
   <div class="card">
     <h2>🚀 Top Momentum Coins (7d)</h2>
     {generate_momentum_html(momentum, mom_names, mom_changes)}
   </div>
 
-  <!-- DOUBLERS -->
   <div class="card">
     <h2>💎 Coins That Doubled (21 days)</h2>
     {generate_doublers_html(doublers)}
@@ -260,7 +249,7 @@ def generate_html(signals, momentum, trending, anomalies, doublers):
   <div class="footer">⚠️ Not financial advice. For educational purposes only.</div>
 </div>
 <script>
-{generate_chart_js(anom_names, anom_ratios, anom_changes, mom_names, mom_changes, mom_vol_mcap)}
+{generate_chart_js(anom_names, anom_ratios, mom_names, mom_changes)}
 </script>
 </body>
 </html>"""
@@ -322,11 +311,9 @@ def generate_doublers_html(doublers):
     html += '</table>'
     return html
 
-def generate_chart_js(anom_names, anom_ratios, anom_changes, mom_names, mom_changes, mom_vol_mcap):
-    # JSON-safe data
+def generate_chart_js(anom_names, anom_ratios, mom_names, mom_changes):
     return f"""
 document.addEventListener('DOMContentLoaded', function () {{
-  // Whale Anomaly Chart
   const anomCtx = document.getElementById('anomalyChart');
   if (anomCtx) {{
     new Chart(anomCtx, {{
@@ -350,7 +337,6 @@ document.addEventListener('DOMContentLoaded', function () {{
     }});
   }}
 
-  // Momentum Chart
   const momCtx = document.getElementById('momentumChart');
   if (momCtx) {{
     new Chart(momCtx, {{
