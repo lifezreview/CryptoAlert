@@ -1,15 +1,11 @@
 import requests
 from datetime import datetime, timezone, timedelta
 
-# ------- CONFIG -------
 COINGECKO_BASE = "https://api.coingecko.com/api/v3"
-OUTPUT_FILE = "whale_report.md"
-VOLUME_SPIKE_THRESHOLD = 2.0   # 24h volume / 7d avg volume > 2 = accumulation alert
+VOLUME_SPIKE_THRESHOLD = 2.0
 TOP_N_MOMENTUM = 15
-# ------- END CONFIG -------
 
 def get_top_100_coins():
-    """Return list of top 100 coins by market cap with 7d change and volume."""
     url = f"{COINGECKO_BASE}/coins/markets"
     params = {
         "vs_currency": "usd",
@@ -21,26 +17,19 @@ def get_top_100_coins():
     }
     r = requests.get(url, params=params)
     if r.status_code != 200:
-        print(f"CoinGecko error: {r.status_code}")
         return []
     return r.json()
 
 def get_coin_volume_history(coin_id, days=7):
-    """Fetch daily volumes for the last 7 days to compute average."""
     url = f"{COINGECKO_BASE}/coins/{coin_id}/market_chart"
-    params = {
-        "vs_currency": "usd",
-        "days": days,
-    }
+    params = {"vs_currency": "usd", "days": days}
     r = requests.get(url, params=params)
     if r.status_code != 200:
         return []
     data = r.json()
-    # data["total_volumes"] is list of [timestamp_ms, volume]
     return data.get("total_volumes", [])
 
 def get_volume_anomaly(coin):
-    """Calculate ratio of current 24h volume to 7-day average volume."""
     coin_id = coin["id"]
     current_volume = coin.get("total_volume", 0)
     if not current_volume:
@@ -48,8 +37,7 @@ def get_volume_anomaly(coin):
     volume_history = get_coin_volume_history(coin_id, days=7)
     if len(volume_history) < 2:
         return 0, 0
-    # Exclude the most recent day (it's the current 24h) to compute average of previous 6
-    recent_volumes = [v[1] for v in volume_history[:-1]]  # all but last
+    recent_volumes = [v[1] for v in volume_history[:-1]]
     if not recent_volumes:
         return 0, 0
     avg_volume = sum(recent_volumes) / len(recent_volumes)
@@ -59,7 +47,6 @@ def get_volume_anomaly(coin):
     return ratio, avg_volume
 
 def get_trending_coins():
-    """Fetch top-15 trending coins on CoinGecko (search interest proxy)."""
     url = f"{COINGECKO_BASE}/search/trending"
     r = requests.get(url)
     if r.status_code != 200:
@@ -74,19 +61,17 @@ def get_trending_coins():
             "name": coin_data.get("name"),
             "symbol": coin_data.get("symbol").upper(),
             "market_cap_rank": coin_data.get("market_cap_rank"),
-            "score": coin_data.get("score"),  # higher = more trending
+            "score": coin_data.get("score"),
         })
     return trending_list
 
 def find_doublers(coins):
-    """Identify coins that doubled in value in last 21 days."""
     doubled = []
     for coin in coins:
         coin_id = coin["id"]
         current_price = coin["current_price"]
         if not current_price:
             continue
-        # Get price 21 days ago
         date_str = (datetime.utcnow() - timedelta(days=21)).strftime("%d-%m-%Y")
         history_url = f"{COINGECKO_BASE}/coins/{coin_id}/history"
         params = {"date": date_str, "localization": "false"}
@@ -105,11 +90,10 @@ def find_doublers(coins):
 
 def generate_report(momentum_coins, trending_coins, doubled_coins, volume_anomalies):
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
-    with open(OUTPUT_FILE, "w") as f:
+    with open("whale_report.md", "w") as f:
         f.write(f"# Whale & Momentum Scanner ({now})\n\n")
-        f.write("*Disclaimer: Not financial advice. Data from CoinGecko. Volume anomaly = 24h volume / 7d avg.*\n\n")
+        f.write("*Disclaimer: Not financial advice. Data from CoinGecko.*\n\n")
 
-        # SECTION 1: Trending (Whale/Institutional Attention Proxy)
         f.write("## 🔍 Trending Coins (Search & Interest Surge)\n")
         if not trending_coins:
             f.write("_No trending data available._\n")
@@ -120,7 +104,6 @@ def generate_report(momentum_coins, trending_coins, doubled_coins, volume_anomal
                 f.write(f"| {coin['name']} | {coin['symbol']} | {coin.get('market_cap_rank', 'N/A')} | {coin.get('score', 0):.1f} |\n")
         f.write("\n")
 
-        # SECTION 2: Volume Anomalies (Whale Accumulation/Distribution)
         f.write("## 📊 Abnormal Volume (Potential Whale Activity)\n")
         if not volume_anomalies:
             f.write("_No significant volume anomalies in the top 100._\n")
@@ -131,7 +114,6 @@ def generate_report(momentum_coins, trending_coins, doubled_coins, volume_anomal
                 f.write(f"| {item['name']} ({item['symbol']}) | ${item['current_vol']:,.0f} | ${item['avg_vol']:,.0f} | {item['ratio']:.1f}x | {item['change_7d']:.1f}% |\n")
         f.write("\n")
 
-        # SECTION 3: Top Momentum (7d)
         f.write("## 🚀 Top Momentum Coins (7d)\n")
         if not momentum_coins:
             f.write("_No momentum data._\n")
@@ -147,7 +129,6 @@ def generate_report(momentum_coins, trending_coins, doubled_coins, volume_anomal
                 f.write(f"| {i} | {coin['name']} ({coin['symbol'].upper()}) | ${price:.4f} | {change:.1f}% | {vol_mcap:.4f} |\n")
         f.write("\n")
 
-        # SECTION 4: Doublers (21d)
         f.write("## 💎 Coins That Doubled (Last 21 Days)\n")
         if not doubled_coins:
             f.write("_No coins from the top 100 have doubled in the last 3 weeks._\n")
@@ -169,7 +150,7 @@ def main():
     print("Fetching trending coins...")
     trending = get_trending_coins()
 
-    print("Scanning for volume anomalies (this may take ~2 minutes due to API limits)...")
+    print("Scanning for volume anomalies (may take a minute)...")
     volume_spikes = []
     for coin in top_coins:
         ratio, avg_vol = get_volume_anomaly(coin)
@@ -182,18 +163,17 @@ def main():
                 "ratio": round(ratio, 2),
                 "change_7d": coin.get("price_change_percentage_7d_in_currency") or 0,
             })
-    # Sort by highest ratio
     volume_spikes.sort(key=lambda x: x["ratio"], reverse=True)
 
     print("Ranking momentum coins...")
     momentum = sorted(top_coins, key=lambda x: x.get("price_change_percentage_7d_in_currency") or 0, reverse=True)
 
-    print("Finding coins that doubled in 21 days...")
+    print("Finding coins that doubled in 21 days (may take a couple of minutes)...")
     doubled = find_doublers(top_coins)
 
     print("Generating report...")
     generate_report(momentum, trending, doubled, volume_spikes)
-    print(f"Report saved to {OUTPUT_FILE}")
+    print("Report saved to whale_report.md")
 
 if __name__ == "__main__":
     main()
