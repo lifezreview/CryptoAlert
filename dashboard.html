@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Crypto Daily Dashboard</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { background:#0b0e11; color:#eaecef; font-family:'Segoe UI', system-ui, sans-serif; padding:20px; }
+  .container { max-width:1200px; margin:auto; }
+  h1 { text-align:center; font-size:2rem; margin-bottom:5px; }
+  .date { text-align:center; color:#848e9c; margin-bottom:30px; }
+  .card { background:#1e2329; border-radius:12px; padding:20px; margin-bottom:24px; box-shadow:0 4px 20px rgba(0,0,0,0.5); }
+  .card h2 { font-size:1.3rem; margin-bottom:15px; display:flex; align-items:center; gap:8px; }
+  .grid-2 { display:grid; grid-template-columns: 1fr 1fr; gap:20px; }
+  .signal-grid { display:grid; grid-template-columns: repeat(auto-fit, minmax(200px,1fr)); gap:12px; }
+  .signal-item { background:#2b3139; padding:12px; border-radius:8px; text-align:center; }
+  .signal-item .label { font-size:0.8rem; color:#848e9c; }
+  .signal-item .value { font-size:1.4rem; font-weight:bold; }
+  .long { color:#0ecb81; }
+  .short { color:#f6465d; }
+  table { width:100%; border-collapse:collapse; margin-top:10px; }
+  th, td { padding:10px 8px; text-align:left; border-bottom:1px solid #2b3139; }
+  th { color:#848e9c; font-weight:500; font-size:0.9rem; }
+  td { font-size:0.95rem; }
+  .tag { display:inline-block; padding:2px 8px; border-radius:4px; font-size:0.75rem; font-weight:bold; }
+  .tag-bullish { background:#0ecb8120; color:#0ecb81; }
+  .tag-bearish { background:#f6465d20; color:#f6465d; }
+  canvas { max-height:300px; }
+  .no-data { text-align:center; color:#5e6673; padding:30px; }
+  .footer { text-align:center; color:#5e6673; font-size:0.8rem; margin-top:20px; }
+</style>
+</head>
+<body>
+<div class="container">
+  <h1>🔮 Crypto Intelligence Dashboard</h1>
+  <div class="date">📅 2026-06-13 19:16 UTC</div>
+
+  <div class="card">
+    <h2>🚦 Liquidity Sweep Trade Signals</h2>
+    <div class="no-data">🛑 No valid setup today. Waiting for sweep + strong R:R.</div>
+  </div>
+
+  <div class="grid-2">
+    <div class="card">
+      <h2>🐋 Whale Volume Anomalies</h2>
+      <div class="no-data">🐟 No abnormal volume detected in top 100.</div>
+    </div>
+    <div class="card">
+      <h2>🔥 Trending Coins (Search Surge)</h2>
+      <table><tr><th>Coin</th><th>Rank</th><th>Score</th></tr><tr><td>Bittensor (TAO)</td><td>40</td><td>0</td></tr><tr><td>Pudgy Penguins (PENGU)</td><td>116</td><td>1</td></tr><tr><td>ChainOpera AI (COAI)</td><td>242</td><td>2</td></tr><tr><td>SpaceX xStock (SPCXX)</td><td>726</td><td>3</td></tr><tr><td>Backpack (BP)</td><td>295</td><td>4</td></tr><tr><td>Siren (SIREN)</td><td>282</td><td>5</td></tr><tr><td>Velvet (VELVET)</td><td>155</td><td>6</td></tr><tr><td>Solana (SOL)</td><td>7</td><td>7</td></tr><tr><td>Venice Token (VVV)</td><td>83</td><td>8</td></tr><tr><td>Bitcoin (BTC)</td><td>1</td><td>9</td></tr></table>
+    </div>
+  </div>
+
+  <div class="card">
+    <h2>🚀 Top Momentum Coins (7d)</h2>
+    <div class="no-data">📊 No momentum data.</div>
+  </div>
+
+  <div class="card">
+    <h2>💎 Coins That Doubled (21 days)</h2>
+    <div class="no-data">💤 No top-100 coin doubled in the last 21 days.</div>
+  </div>
+
+  <div class="footer">⚠️ Not financial advice. For educational purposes only.</div>
+</div>
+<script>
+
+document.addEventListener('DOMContentLoaded', function () {
+  const anomCtx = document.getElementById('anomalyChart');
+  if (anomCtx) {
+    new Chart(anomCtx, {
+      type: 'bar',
+      data: {
+        labels: [],
+        datasets: [{
+          label: 'Volume Spike Ratio (x)',
+          data: [],
+          backgroundColor: anom_ratios.map(r => r > 3 ? '#f6465d' : '#f0b90b'),
+          borderRadius: 4
+        }]
+      },
+      options: {
+        responsive: true,
+        plugins: { legend: { display: false } },
+        scales: {
+          y: { beginAtZero: true, grid: { color: '#2b3139' } }
+        }
+      }
+    });
+  }
+
+  const momCtx = document.getElementById('momentumChart');
+  if (momCtx) {
+    new Chart(momCtx, {
+      type: 'bar',
+      data: {
+        labels: [],
+        datasets: [{
+          label: '7d Change %',
+          data: [],
+          backgroundColor: mom_changes.map(v => v >= 0 ? '#0ecb81' : '#f6465d'),
+          borderRadius: 4,
+          yAxisID: 'y'
+        }]
+      },
+      options: {
+        responsive: true,
+        plugins: { legend: { display: true, position: 'top' } },
+        scales: {
+          y: { beginAtZero: true, grid: { color: '#2b3139' }, title: { display: true, text: '% Change' } }
+        }
+      }
+    });
+  }
+});
+
+</script>
+</body>
+</html>
