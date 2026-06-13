@@ -1,0 +1,27 @@
+name: Daily Crypto Signal
+
+on:
+  schedule:
+    - cron: '30 8 * * *'   # 8:30 AM UTC
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      - name: Install dependencies
+        run: pip install requests
+      - name: Run signal generator
+        run: python generate_signal.py
+      - name: Commit and push signal.md
+        run: |
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+          git add signal.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update daily signal" && git push)
