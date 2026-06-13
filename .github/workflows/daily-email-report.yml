@@ -2,12 +2,15 @@ name: Daily Crypto Report to Email
 
 on:
   schedule:
-    - cron: '45 8 * * *'   # 08:45 UTC (after London open)
-  workflow_dispatch:       # Manual trigger for testing
+    - cron: '45 8 * * *'   # 08:45 UTC every day
+  workflow_dispatch:       # allows manual test run
 
 jobs:
   generate-and-email:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write                # <--- THIS FIXES THE 403 ERROR
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
@@ -45,7 +48,7 @@ jobs:
           echo "$WHALE" >> $GITHUB_OUTPUT
           echo "EOF" >> $GITHUB_OUTPUT
 
-      - name: Commit updated files to repo (optional)
+      - name: Commit updated files to repo
         run: |
           git config user.name "GitHub Action"
           git config user.email "action@github.com"
@@ -60,7 +63,7 @@ jobs:
           username: ${{ secrets.GMAIL_USER }}
           password: ${{ secrets.GMAIL_APP_PASSWORD }}
           subject: "🔮 Crypto Daily Report – ${{ github.event.repository.updated_at || 'Today' }}"
-          to: ${{ secrets.GMAIL_USER }}   # sends to yourself; change if needed
+          to: ${{ secrets.GMAIL_USER }}
           from: Crypto Signals Bot
           html_body: |
             <h2>🚦 Trade Signals</h2>
