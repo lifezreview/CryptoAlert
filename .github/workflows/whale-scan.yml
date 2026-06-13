@@ -1,0 +1,25 @@
+name: Daily Whale & Momentum Scan
+
+on:
+  schedule:
+    - cron: '0 9 * * *'   # 9:00 AM UTC
+  workflow_dispatch:
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      - name: Install dependencies
+        run: pip install requests
+      - name: Run whale scanner
+        run: python whale_scanner.py
+      - name: Commit and push whale_report.md
+        run: |
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+          git add whale_report.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update whale & momentum report" && git push)
