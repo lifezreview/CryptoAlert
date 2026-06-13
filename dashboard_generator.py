@@ -10,7 +10,7 @@ VOLUME_SPIKE_THRESHOLD = 2.0
 TOP_N_MOMENTUM = 15
 OUTPUT_HTML = "dashboard.html"
 
-# ---------- Binance Helpers (same as generate_signal.py) ----------
+# ---------- Binance Helpers ----------
 def get_klines(symbol, interval, limit=100):
     url = f"{BINANCE_BASE}/klines"
     params = {"symbol": symbol, "interval": interval, "limit": limit}
@@ -118,7 +118,7 @@ def generate_signal(pair):
         "tp2": round(tp2, 4)
     }
 
-# ---------- CoinGecko Helpers (same as whale_scanner.py) ----------
+# ---------- CoinGecko Helpers ----------
 def get_top_100():
     url = f"{COINGECKO_BASE}/coins/markets"
     params = {"vs_currency":"usd","order":"market_cap_desc","per_page":100,"page":1,
