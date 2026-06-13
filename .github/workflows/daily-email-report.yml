@@ -1,0 +1,72 @@
+name: Daily Crypto Report to Email
+
+on:
+  schedule:
+    - cron: '45 8 * * *'   # 08:45 UTC (after London open)
+  workflow_dispatch:       # Manual trigger for testing
+
+jobs:
+  generate-and-email:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run signal generator
+        run: python generate_signal.py
+
+      - name: Run whale scanner
+        run: python whale_scanner.py
+
+      - name: Generate dashboard
+        run: python dashboard_generator.py
+
+      - name: Read signal content
+        id: read_signal
+        run: |
+          SIGNAL=$(cat signal.md)
+          echo "SIGNAL<<EOF" >> $GITHUB_OUTPUT
+          echo "$SIGNAL" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+
+      - name: Read whale report content
+        id: read_whale
+        run: |
+          WHALE=$(cat whale_report.md)
+          echo "WHALE<<EOF" >> $GITHUB_OUTPUT
+          echo "$WHALE" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+
+      - name: Commit updated files to repo (optional)
+        run: |
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+          git add signal.md whale_report.md dashboard.html
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update reports" && git push)
+
+      - name: Send email with reports
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          username: ${{ secrets.GMAIL_USER }}
+          password: ${{ secrets.GMAIL_APP_PASSWORD }}
+          subject: "🔮 Crypto Daily Report – ${{ github.event.repository.updated_at || 'Today' }}"
+          to: ${{ secrets.GMAIL_USER }}   # sends to yourself; change if needed
+          from: Crypto Signals Bot
+          html_body: |
+            <h2>🚦 Trade Signals</h2>
+            <pre>${{ steps.read_signal.outputs.SIGNAL }}</pre>
+            <h2>🐋 Whale & Momentum</h2>
+            <pre>${{ steps.read_whale.outputs.WHALE }}</pre>
+            <hr>
+            <p>📊 <a href="https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/dashboard.html">View Live Dashboard</a></p>
+            <p>⚠️ Not financial advice.</p>
