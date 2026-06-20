@@ -1,4 +1,4 @@
-# Whale & Momentum Scanner (2026-06-20 11:03 UTC)
+# Whale & Momentum Scanner (2026-06-20 11:11 UTC)
 
 *Disclaimer: Not financial advice. Data from CoinGecko.*
 
@@ -27,21 +27,21 @@ _No significant volume anomalies in the top 100._
 ## 🚀 Top Momentum Coins (7d)
 | # | Coin | Price | 7d Change | Vol/MCap |
 |---|------|-------|-----------|----------|
-| 1 | Worldcoin (WLD) | $0.6088 | 24.9% | 0.1372 |
-| 2 | LAB (LAB) | $12.1200 | 23.8% | 0.0115 |
-| 3 | Hyperliquid (HYPE) | $70.7700 | 21.2% | 0.0481 |
-| 4 | Uniswap (UNI) | $3.0200 | 20.1% | 0.0989 |
-| 5 | Jupiter (JUP) | $0.1996 | 14.8% | 0.0528 |
-| 6 | Zcash (ZEC) | $471.4100 | 13.9% | 0.0497 |
-| 7 | Stellar (XLM) | $0.2165 | 13.6% | 0.0423 |
-| 8 | Aave (AAVE) | $75.1500 | 12.9% | 0.0915 |
+| 1 | LAB (LAB) | $12.1300 | 23.9% | 0.0114 |
+| 2 | Worldcoin (WLD) | $0.6017 | 23.5% | 0.1775 |
+| 3 | Hyperliquid (HYPE) | $70.5900 | 20.9% | 0.0475 |
+| 4 | Uniswap (UNI) | $3.0100 | 19.6% | 0.1001 |
+| 5 | Jupiter (JUP) | $0.1982 | 14.0% | 0.0551 |
+| 6 | Zcash (ZEC) | $469.4300 | 13.4% | 0.0498 |
+| 7 | Stellar (XLM) | $0.2154 | 13.1% | 0.0423 |
+| 8 | Aave (AAVE) | $74.7800 | 12.4% | 0.0921 |
 | 9 | Rain (RAIN) | $0.0145 | 11.4% | 0.0046 |
-| 10 | POL (ex-MATIC) (POL) | $0.0827 | 10.4% | 0.0592 |
-| 11 | JUST (JST) | $0.0834 | 9.6% | 0.0282 |
-| 12 | Ethena (ENA) | $0.0883 | 8.9% | 0.1162 |
-| 13 | Ethereum Classic (ETC) | $7.6700 | 6.8% | 0.0517 |
-| 14 | Solana (SOL) | $71.6300 | 6.4% | 0.0446 |
-| 15 | Quant (QNT) | $70.4300 | 5.9% | 0.0093 |
+| 10 | POL (ex-MATIC) (POL) | $0.0825 | 10.2% | 0.0610 |
+| 11 | JUST (JST) | $0.0834 | 9.6% | 0.0365 |
+| 12 | Ethena (ENA) | $0.0877 | 8.0% | 0.1230 |
+| 13 | Ethereum Classic (ETC) | $7.6600 | 6.5% | 0.0684 |
+| 14 | Solana (SOL) | $71.4100 | 6.1% | 0.0443 |
+| 15 | Quant (QNT) | $70.3500 | 5.8% | 0.0093 |
 
 ## 💎 Coins That Doubled (Last 21 Days)
 _No coins from the top 100 have doubled in the last 3 weeks._
