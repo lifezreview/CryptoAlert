@@ -1,4 +1,4 @@
-# Whale & Momentum Scanner (2026-06-21 11:35 UTC)
+# Whale & Momentum Scanner (2026-06-21 11:41 UTC)
 
 *Disclaimer: Not financial advice. Data from CoinGecko.*
 
@@ -27,21 +27,21 @@ _No significant volume anomalies in the top 100._
 ## 🚀 Top Momentum Coins (7d)
 | # | Coin | Price | 7d Change | Vol/MCap |
 |---|------|-------|-----------|----------|
-| 1 | LAB (LAB) | $15.7500 | 54.0% | 0.0080 |
-| 2 | Aerodrome Finance (AERO) | $0.5414 | 50.7% | 0.1272 |
-| 3 | Jupiter (JUP) | $0.2213 | 29.8% | 0.0926 |
+| 1 | LAB (LAB) | $15.8400 | 54.9% | 0.0080 |
+| 2 | Aerodrome Finance (AERO) | $0.5425 | 51.0% | 0.1275 |
+| 3 | Jupiter (JUP) | $0.2215 | 29.9% | 0.0928 |
 | 4 | Uniswap (UNI) | $3.0200 | 19.4% | 0.0986 |
-| 5 | Worldcoin (WLD) | $0.5968 | 18.1% | 0.1301 |
+| 5 | Worldcoin (WLD) | $0.5974 | 18.2% | 0.0951 |
 | 6 | Stellar (XLM) | $0.2114 | 14.8% | 0.0248 |
-| 7 | Hyperliquid (HYPE) | $67.6900 | 12.1% | 0.0293 |
-| 8 | Aave (AAVE) | $74.1800 | 11.7% | 0.1146 |
-| 9 | JUST (JST) | $0.0832 | 11.3% | 0.0301 |
-| 10 | Ethena (ENA) | $0.0914 | 10.6% | 0.1266 |
-| 11 | Rain (RAIN) | $0.0144 | 10.2% | 0.0042 |
-| 12 | Solana (SOL) | $73.3300 | 7.2% | 0.0518 |
-| 13 | Zcash (ZEC) | $454.1400 | 7.1% | 0.0404 |
-| 14 | NEAR Protocol (NEAR) | $2.2400 | 6.0% | 0.0913 |
-| 15 | 币安人生 (BinanceLife) (币安人生) | $0.7057 | 5.4% | 0.0120 |
+| 7 | Hyperliquid (HYPE) | $67.6800 | 12.1% | 0.0294 |
+| 8 | Aave (AAVE) | $74.0800 | 11.6% | 0.1148 |
+| 9 | JUST (JST) | $0.0831 | 11.3% | 0.0306 |
+| 10 | Rain (RAIN) | $0.0144 | 10.3% | 0.0042 |
+| 11 | Ethena (ENA) | $0.0911 | 10.2% | 0.1244 |
+| 12 | Solana (SOL) | $73.2900 | 7.1% | 0.0522 |
+| 13 | Zcash (ZEC) | $453.6800 | 6.9% | 0.0407 |
+| 14 | NEAR Protocol (NEAR) | $2.2400 | 5.9% | 0.0917 |
+| 15 | 币安人生 (BinanceLife) (币安人生) | $0.7060 | 5.5% | 0.0120 |
 
 ## 💎 Coins That Doubled (Last 21 Days)
 _No coins from the top 100 have doubled in the last 3 weeks._
