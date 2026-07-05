@@ -1,25 +1,25 @@
-# Whale & Momentum Scanner (2026-07-04 10:50 UTC)
+# Whale & Momentum Scanner (2026-07-05 10:53 UTC)
 
 *Disclaimer: Not financial advice. Data from CoinGecko.*
 
 ## 🔍 Trending Coins (Search & Interest Surge)
 | Coin | Symbol | Market Cap Rank | Trending Score |
 |------|--------|-----------------|----------------|
-| The Black Bull | ANSEM | 207 | 0.0 |
-| Pudgy Penguins | PENGU | 114 | 1.0 |
-| Hamster Kombat | HMSTR | 751 | 2.0 |
-| Alien Worlds | TLM | 846 | 3.0 |
-| Solana | SOL | 7 | 4.0 |
-| LAB | LAB | 28 | 5.0 |
-| Solstice | SLX | 287 | 6.0 |
-| Moonbeam | GLMR | 990 | 7.0 |
-| Lighter | LIT | 101 | 8.0 |
-| Hyperliquid | HYPE | 10 | 9.0 |
-| Pump.fun | PUMP | 92 | 10.0 |
-| manlet | MANLET | 939 | 11.0 |
-| Siren | SIREN | 389 | 12.0 |
-| Bitcoin | BTC | 1 | 13.0 |
-| Gram (prev. Toncoin) | GRAM | 22 | 14.0 |
+| The Black Bull | ANSEM | 228 | 0.0 |
+| Lighter | LIT | 96 | 1.0 |
+| LAB | LAB | 22 | 2.0 |
+| Pudgy Penguins | PENGU | 114 | 3.0 |
+| Bitcoin | BTC | 1 | 4.0 |
+| Gram (prev. Toncoin) | GRAM | 24 | 5.0 |
+| Solstice | SLX | 368 | 6.0 |
+| Venice Token | VVV | 98 | 7.0 |
+| XRP | XRP | 6 | 8.0 |
+| Epic Chain | EPIC | 978 | 9.0 |
+| Pearl | PRL | 283 | 10.0 |
+| Cap | CAP | 560 | 11.0 |
+| Synapse | SYN | 289 | 12.0 |
+| Aster | ASTER | 46 | 13.0 |
+| Ethereum | ETH | 2 | 14.0 |
 
 ## 📊 Abnormal Volume (Potential Whale Activity)
 _No significant volume anomalies in the top 100._
@@ -27,21 +27,21 @@ _No significant volume anomalies in the top 100._
 ## 🚀 Top Momentum Coins (7d)
 | # | Coin | Price | 7d Change | Vol/MCap |
 |---|------|-------|-----------|----------|
-| 1 | MemeCore (M) | $1.5600 | 104.8% | 0.0091 |
-| 2 | Audiera (BEAT) | $3.0300 | 41.4% | 0.0202 |
-| 3 | Lighter (LIT) | $2.1800 | 22.8% | 0.0952 |
-| 4 | ADI (ADI) | $5.7600 | 20.3% | 0.0080 |
-| 5 | Pump.fun (PUMP) | $0.0016 | 19.8% | 0.0926 |
-| 6 | Cardano (ADA) | $0.1753 | 19.3% | 0.0958 |
-| 7 | Stellar (XLM) | $0.2062 | 18.8% | 0.1008 |
-| 8 | Sky (SKY) | $0.0576 | 17.7% | 0.0043 |
-| 9 | WhiteBIT Coin (WBT) | $56.3900 | 16.9% | 0.0051 |
-| 10 | Gram (prev. Toncoin) (GRAM) | $1.8300 | 16.9% | 0.0180 |
-| 11 | Bitcoin Cash (BCH) | $224.8700 | 14.8% | 0.0259 |
-| 12 | Solana (SOL) | $81.5200 | 13.7% | 0.0483 |
-| 13 | DeXe (DEXE) | $23.4600 | 13.3% | 0.0119 |
-| 14 | Zcash (ZEC) | $459.8300 | 13.0% | 0.0425 |
-| 15 | Hyperliquid (HYPE) | $70.6700 | 12.5% | 0.0326 |
+| 1 | MemeCore (M) | $1.4100 | 104.0% | 0.0085 |
+| 2 | 币安人生 (BinanceLife) (币安人生) | $0.7637 | 39.3% | 0.0551 |
+| 3 | Cardano (ADA) | $0.1869 | 28.2% | 0.1204 |
+| 4 | Lighter (LIT) | $2.2900 | 25.9% | 0.0806 |
+| 5 | Bitcoin Cash (BCH) | $238.4500 | 22.9% | 0.0342 |
+| 6 | Zcash (ZEC) | $455.9100 | 18.0% | 0.0344 |
+| 7 | ADI (ADI) | $5.8000 | 17.7% | 0.0070 |
+| 8 | WhiteBIT Coin (WBT) | $56.5100 | 17.5% | 0.0061 |
+| 9 | Stellar (XLM) | $0.1992 | 15.3% | 0.0387 |
+| 10 | Gram (prev. Toncoin) (GRAM) | $1.7600 | 12.9% | 0.0254 |
+| 11 | Morpho (MORPHO) | $1.9900 | 12.6% | 0.0090 |
+| 12 | Solana (SOL) | $80.3000 | 11.8% | 0.0354 |
+| 13 | Pepe (PEPE) | $0.0000 | 11.4% | 0.1377 |
+| 14 | Ethereum (ETH) | $1759.1300 | 11.4% | 0.0578 |
+| 15 | Kaspa (KAS) | $0.0309 | 11.0% | 0.0117 |
 
 ## 💎 Coins That Doubled (Last 21 Days)
 _No coins from the top 100 have doubled in the last 3 weeks._
