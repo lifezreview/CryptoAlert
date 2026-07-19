@@ -1,25 +1,25 @@
-# Whale & Momentum Scanner (2026-07-18 10:13 UTC)
+# Whale & Momentum Scanner (2026-07-19 10:16 UTC)
 
 *Disclaimer: Not financial advice. Data from CoinGecko.*
 
 ## 🔍 Trending Coins (Search & Interest Surge)
 | Coin | Symbol | Market Cap Rank | Trending Score |
 |------|--------|-----------------|----------------|
-| ADI | ADI | 75 | 0.0 |
-| LAB | LAB | 377 | 1.0 |
-| Pudgy Penguins | PENGU | 119 | 2.0 |
-| Bitcoin | BTC | 1 | 3.0 |
-| Pi Network | PI | 70 | 4.0 |
-| Cash Cat | CASHCAT | 418 | 5.0 |
-| Hyperliquid | HYPE | 10 | 6.0 |
-| Solana | SOL | 7 | 7.0 |
-| Akedo | AKE | 551 | 8.0 |
-| Aerodrome Finance | AERO | 109 | 9.0 |
-| Jupiter | JUP | 90 | 10.0 |
-| Ondo | ONDO | 45 | 11.0 |
-| The Black Bull | ANSEM | 322 | 12.0 |
-| XRP | XRP | 6 | 13.0 |
-| Virtuals Protocol | VIRTUAL | 115 | 14.0 |
+| Pudgy Penguins | PENGU | 118 | 0.0 |
+| Lorenzo Protocol | BANK | 382 | 1.0 |
+| Alien Worlds | TLM | 999 | 2.0 |
+| Pi Network | PI | 68 | 3.0 |
+| Cash Cat | CASHCAT | 384 | 4.0 |
+| LAB | LAB | 402 | 5.0 |
+| Credible Finance | CRED | 952 | 6.0 |
+| Akedo | AKE | 501 | 7.0 |
+| Sushi | SUSHI | 458 | 8.0 |
+| Solana | SOL | 7 | 9.0 |
+| Aerodrome Finance | AERO | 111 | 10.0 |
+| Ondo | ONDO | 44 | 11.0 |
+| Sui | SUI | 29 | 12.0 |
+| Hyperliquid | HYPE | 10 | 13.0 |
+| Arbitrum | ARB | 93 | 14.0 |
 
 ## 📊 Abnormal Volume (Potential Whale Activity)
 _No significant volume anomalies in the top 100._
@@ -27,21 +27,21 @@ _No significant volume anomalies in the top 100._
 ## 🚀 Top Momentum Coins (7d)
 | # | Coin | Price | 7d Change | Vol/MCap |
 |---|------|-------|-----------|----------|
-| 1 | Pump.fun (PUMP) | $0.0016 | 14.6% | 0.0764 |
-| 2 | Venice Token (VVV) | $11.5700 | 9.8% | 0.0645 |
-| 3 | Zcash (ZEC) | $538.8300 | 7.6% | 0.0337 |
-| 4 | Cronos (CRO) | $0.0601 | 7.4% | 0.0075 |
-| 5 | Ondo (ONDO) | $0.3427 | 4.3% | 0.0991 |
-| 6 | XDC Network (XDC) | $0.0279 | 3.1% | 0.0126 |
-| 7 | Chainlink (LINK) | $8.2400 | 3.0% | 0.0294 |
-| 8 | LEO Token (LEO) | $9.7900 | 2.8% | 0.0000 |
-| 9 | Ethereum (ETH) | $1843.7600 | 2.4% | 0.0300 |
-| 10 | ADI (ADI) | $6.5200 | 2.3% | 0.0078 |
-| 11 | 币安人生 (BinanceLife) (币安人生) | $0.6917 | 2.1% | 0.0280 |
-| 12 | POL (ex-MATIC) (POL) | $0.0815 | 1.9% | 0.0408 |
-| 13 | Monero (XMR) | $329.5600 | 1.6% | 0.0114 |
-| 14 | Litecoin (LTC) | $45.4100 | 1.0% | 0.0640 |
-| 15 | OKB (OKB) | $81.3200 | 0.7% | 0.0074 |
+| 1 | Pump.fun (PUMP) | $0.0017 | 18.4% | 0.0307 |
+| 2 | Venice Token (VVV) | $11.8300 | 9.3% | 0.0326 |
+| 3 | Ondo (ONDO) | $0.3516 | 7.6% | 0.0677 |
+| 4 | Zcash (ZEC) | $559.8800 | 6.8% | 0.0245 |
+| 5 | Cronos (CRO) | $0.0588 | 5.6% | 0.0032 |
+| 6 | Litecoin (LTC) | $46.9300 | 5.3% | 0.0825 |
+| 7 | Pepe (PEPE) | $0.0000 | 4.6% | 0.0986 |
+| 8 | Chainlink (LINK) | $8.3300 | 4.0% | 0.0227 |
+| 9 | XDC Network (XDC) | $0.0281 | 3.8% | 0.0096 |
+| 10 | Ethereum (ETH) | $1865.4600 | 3.6% | 0.0225 |
+| 11 | Monero (XMR) | $337.0000 | 3.2% | 0.0121 |
+| 12 | LEO Token (LEO) | $9.8000 | 2.8% | 0.0000 |
+| 13 | POL (ex-MATIC) (POL) | $0.0812 | 2.5% | 0.0266 |
+| 14 | NEAR Protocol (NEAR) | $1.9300 | 2.0% | 0.0387 |
+| 15 | Audiera (BEAT) | $2.3300 | 1.7% | 0.0074 |
 
 ## 💎 Coins That Doubled (Last 21 Days)
 _No coins from the top 100 have doubled in the last 3 weeks._
