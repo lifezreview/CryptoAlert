@@ -1,4 +1,4 @@
-# Whale & Momentum Scanner (2026-07-22 10:53 UTC)
+# Whale & Momentum Scanner (2026-07-22 11:02 UTC)
 
 *Disclaimer: Not financial advice. Data from CoinGecko.*
 
@@ -27,21 +27,21 @@ _No significant volume anomalies in the top 100._
 ## 🚀 Top Momentum Coins (7d)
 | # | Coin | Price | 7d Change | Vol/MCap |
 |---|------|-------|-----------|----------|
-| 1 | Ondo (ONDO) | $0.4121 | 28.9% | 0.0834 |
-| 2 | Pump.fun (PUMP) | $0.0020 | 20.8% | 0.1010 |
-| 3 | Venice Token (VVV) | $12.7900 | 19.4% | 0.0439 |
-| 4 | Pi Network (PI) | $0.0918 | 10.4% | 0.0138 |
+| 1 | Ondo (ONDO) | $0.4114 | 28.9% | 0.0835 |
+| 2 | Pump.fun (PUMP) | $0.0020 | 21.1% | 0.1003 |
+| 3 | Venice Token (VVV) | $12.7200 | 18.7% | 0.0469 |
+| 4 | Pi Network (PI) | $0.0918 | 10.5% | 0.0137 |
 | 5 | Provenance Blockchain (HASH) | $0.0099 | 9.5% | 0.0003 |
-| 6 | Monero (XMR) | $351.4900 | 6.7% | 0.0167 |
-| 7 | Ethena (ENA) | $0.0881 | 6.1% | 0.1341 |
-| 8 | Cardano (ADA) | $0.1735 | 6.1% | 0.0424 |
-| 9 | Hedera (HBAR) | $0.0712 | 5.8% | 0.0231 |
-| 10 | Sky (SKY) | $0.0639 | 5.3% | 0.0054 |
-| 11 | XDC Network (XDC) | $0.0288 | 5.1% | 0.0150 |
-| 12 | Uniswap (UNI) | $3.7800 | 5.0% | 0.0579 |
-| 13 | Cronos (CRO) | $0.0579 | 4.4% | 0.0026 |
-| 14 | JUST (JST) | $0.1014 | 3.8% | 0.0356 |
-| 15 | Stellar (XLM) | $0.1898 | 3.8% | 0.0261 |
+| 6 | Monero (XMR) | $350.5800 | 6.4% | 0.0167 |
+| 7 | Injective (INJ) | $5.2400 | 6.4% | 0.1448 |
+| 8 | Ethena (ENA) | $0.0883 | 6.1% | 0.1284 |
+| 9 | Hedera (HBAR) | $0.0713 | 6.0% | 0.0231 |
+| 10 | Cardano (ADA) | $0.1734 | 5.7% | 0.0423 |
+| 11 | Sky (SKY) | $0.0637 | 5.1% | 0.0054 |
+| 12 | XDC Network (XDC) | $0.0288 | 5.0% | 0.0149 |
+| 13 | Uniswap (UNI) | $3.7700 | 4.9% | 0.0581 |
+| 14 | Cronos (CRO) | $0.0580 | 4.5% | 0.0026 |
+| 15 | JUST (JST) | $0.1014 | 3.8% | 0.0355 |
 
 ## 💎 Coins That Doubled (Last 21 Days)
 _No coins from the top 100 have doubled in the last 3 weeks._
