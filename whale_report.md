@@ -1,25 +1,25 @@
-# Whale & Momentum Scanner (2026-07-21 11:01 UTC)
+# Whale & Momentum Scanner (2026-07-22 10:53 UTC)
 
 *Disclaimer: Not financial advice. Data from CoinGecko.*
 
 ## 🔍 Trending Coins (Search & Interest Surge)
 | Coin | Symbol | Market Cap Rank | Trending Score |
 |------|--------|-----------------|----------------|
-| Caldera | ERA | 890 | 0.0 |
-| Cash Cat | CASHCAT | 302 | 1.0 |
-| DeXe | DEXE | 68 | 2.0 |
-| Ondo | ONDO | 41 | 3.0 |
-| Pons | PONS | 662 | 4.0 |
-| Lorenzo Protocol | BANK | 371 | 5.0 |
-| Pudgy Penguins | PENGU | 115 | 6.0 |
+| DeXe | DEXE | 153 | 0.0 |
+| Hyperliquid | HYPE | 10 | 1.0 |
+| Pudgy Penguins | PENGU | 114 | 2.0 |
+| Pons | PONS | 658 | 3.0 |
+| Cash Cat | CASHCAT | 360 | 4.0 |
+| Movement | MOVE | 478 | 5.0 |
+| Ondo | ONDO | 41 | 6.0 |
 | Bitcoin | BTC | 1 | 7.0 |
-| Solana | SOL | 7 | 8.0 |
-| Monad | MON | 140 | 9.0 |
-| Jupiter | JUP | 88 | 10.0 |
-| Pump.fun | PUMP | 79 | 11.0 |
-| Pi Network | PI | 65 | 12.0 |
-| Aave | AAVE | 52 | 13.0 |
-| Pendle | PENDLE | 136 | 14.0 |
+| Bittensor | TAO | 42 | 8.0 |
+| Caldera | ERA | 828 | 9.0 |
+| The Black Bull | ANSEM | 295 | 10.0 |
+| Solana | SOL | 7 | 11.0 |
+| Uniswap | UNI | 39 | 12.0 |
+| Lighter | LIT | 96 | 13.0 |
+| USDC | USDC | 5 | 14.0 |
 
 ## 📊 Abnormal Volume (Potential Whale Activity)
 _No significant volume anomalies in the top 100._
@@ -27,21 +27,21 @@ _No significant volume anomalies in the top 100._
 ## 🚀 Top Momentum Coins (7d)
 | # | Coin | Price | 7d Change | Vol/MCap |
 |---|------|-------|-----------|----------|
-| 1 | Pump.fun (PUMP) | $0.0020 | 40.5% | 0.1446 |
-| 2 | Ondo (ONDO) | $0.4028 | 30.5% | 0.0897 |
-| 3 | Pi Network (PI) | $0.0935 | 29.2% | 0.0211 |
-| 4 | Venice Token (VVV) | $12.7900 | 15.1% | 0.0517 |
-| 5 | Cardano (ADA) | $0.1745 | 10.2% | 0.0730 |
-| 6 | Chainlink (LINK) | $8.7000 | 9.8% | 0.0391 |
-| 7 | Pepe (PEPE) | $0.0000 | 8.7% | 0.1697 |
-| 8 | Ethereum (ETH) | $1932.5200 | 8.3% | 0.0509 |
-| 9 | Litecoin (LTC) | $47.3000 | 8.3% | 0.0724 |
-| 10 | Injective (INJ) | $5.3900 | 8.1% | 0.1698 |
-| 11 | XDC Network (XDC) | $0.0290 | 7.8% | 0.0251 |
-| 12 | Stellar (XLM) | $0.1916 | 7.5% | 0.0234 |
-| 13 | Cronos (CRO) | $0.0579 | 6.8% | 0.0029 |
-| 14 | NEXO (NEXO) | $0.7746 | 6.7% | 0.0066 |
-| 15 | Monero (XMR) | $346.0500 | 6.5% | 0.0159 |
+| 1 | Ondo (ONDO) | $0.4121 | 28.9% | 0.0834 |
+| 2 | Pump.fun (PUMP) | $0.0020 | 20.8% | 0.1010 |
+| 3 | Venice Token (VVV) | $12.7900 | 19.4% | 0.0439 |
+| 4 | Pi Network (PI) | $0.0918 | 10.4% | 0.0138 |
+| 5 | Provenance Blockchain (HASH) | $0.0099 | 9.5% | 0.0003 |
+| 6 | Monero (XMR) | $351.4900 | 6.7% | 0.0167 |
+| 7 | Ethena (ENA) | $0.0881 | 6.1% | 0.1341 |
+| 8 | Cardano (ADA) | $0.1735 | 6.1% | 0.0424 |
+| 9 | Hedera (HBAR) | $0.0712 | 5.8% | 0.0231 |
+| 10 | Sky (SKY) | $0.0639 | 5.3% | 0.0054 |
+| 11 | XDC Network (XDC) | $0.0288 | 5.1% | 0.0150 |
+| 12 | Uniswap (UNI) | $3.7800 | 5.0% | 0.0579 |
+| 13 | Cronos (CRO) | $0.0579 | 4.4% | 0.0026 |
+| 14 | JUST (JST) | $0.1014 | 3.8% | 0.0356 |
+| 15 | Stellar (XLM) | $0.1898 | 3.8% | 0.0261 |
 
 ## 💎 Coins That Doubled (Last 21 Days)
 _No coins from the top 100 have doubled in the last 3 weeks._
