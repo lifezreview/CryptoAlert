@@ -1,25 +1,25 @@
-# Whale & Momentum Scanner (2026-08-03 12:15 UTC)
+# Whale & Momentum Scanner (2026-08-04 11:10 UTC)
 
 *Disclaimer: Not financial advice. Data from CoinGecko.*
 
 ## 🔍 Trending Coins (Search & Interest Surge)
 | Coin | Symbol | Market Cap Rank | Trending Score |
 |------|--------|-----------------|----------------|
-| Pudgy Penguins | PENGU | 109 | 0.0 |
-| Bless | BLESS | 520 | 1.0 |
-| Hyperliquid | HYPE | 10 | 2.0 |
-| Lighter | LIT | 96 | 3.0 |
-| AEON | AEON | 992 | 4.0 |
-| Aerodrome Finance | AERO | 110 | 5.0 |
-| Ethereum | ETH | 2 | 6.0 |
-| Kaspa | KAS | 81 | 7.0 |
-| GRVT Token | GRVT | 610 | 8.0 |
-| Chainlink | LINK | 19 | 9.0 |
-| NEAR Protocol | NEAR | 39 | 10.0 |
-| Terra Luna Classic | LUNC | 129 | 11.0 |
-| UnifAI Network | UAI | 273 | 12.0 |
-| Bittensor | TAO | 43 | 13.0 |
-| Synapse | SYN | 804 | 14.0 |
+| Cysic | CYS | 345 | 0.0 |
+| Ergo | ERG | 825 | 1.0 |
+| Cash Cat | CASHCAT | 341 | 2.0 |
+| Lighter | LIT | 97 | 3.0 |
+| HOME | HOME | 531 | 4.0 |
+| Pudgy Penguins | PENGU | 109 | 5.0 |
+| Hyperliquid | HYPE | 9 | 6.0 |
+| Pump.fun | PUMP | 70 | 7.0 |
+| Gram (prev. Toncoin) | GRAM | 25 | 8.0 |
+| Bitcoin | BTC | 1 | 9.0 |
+| Ondo | ONDO | 42 | 10.0 |
+| Solana | SOL | 7 | 11.0 |
+| Ethereum | ETH | 2 | 12.0 |
+| Shiba Inu | SHIB | 30 | 13.0 |
+| UnifAI Network | UAI | 389 | 14.0 |
 
 ## 📊 Abnormal Volume (Potential Whale Activity)
 _No significant volume anomalies in the top 100._
@@ -27,21 +27,21 @@ _No significant volume anomalies in the top 100._
 ## 🚀 Top Momentum Coins (7d)
 | # | Coin | Price | 7d Change | Vol/MCap |
 |---|------|-------|-----------|----------|
-| 1 | Talus (US) | $0.0542 | 18.2% | 0.0133 |
-| 2 | Cardano (ADA) | $0.1871 | 12.9% | 0.0722 |
-| 3 | Uniswap (UNI) | $4.0600 | 4.5% | 0.0671 |
-| 4 | Algorand (ALGO) | $0.0863 | 3.9% | 0.0517 |
-| 5 | Monero (XMR) | $360.0400 | 2.7% | 0.0103 |
-| 6 | BNB (BNB) | $585.3400 | 2.1% | 0.0059 |
-| 7 | JUST (JST) | $0.1056 | 1.5% | 0.0277 |
-| 8 | Spiko Amundi Overnight Swap Fund (EUR) (EURSAFO) | $1.1600 | 1.4% | 0.0000 |
-| 9 | Spiko EU T-Bills Money Market Fund (EUTBL) | $1.2200 | 1.4% | 0.0000 |
-| 10 | Pi Network (PI) | $0.0825 | 1.1% | 0.0063 |
-| 11 | Injective (INJ) | $4.9300 | 0.9% | 0.0802 |
-| 12 | LEO Token (LEO) | $9.7300 | 0.2% | 0.0000 |
-| 13 | Circle USYC (USYC) | $1.1300 | 0.2% | 0.0000 |
-| 14 | Ethena (ENA) | $0.0911 | 0.2% | 0.1523 |
-| 15 | Beldex (BDX) | $0.0818 | 0.2% | 0.0191 |
+| 1 | Cardano (ADA) | $0.1947 | 24.1% | 0.0943 |
+| 2 | Algorand (ALGO) | $0.0905 | 12.9% | 0.0568 |
+| 3 | Pi Network (PI) | $0.0835 | 11.4% | 0.0045 |
+| 4 | Pump.fun (PUMP) | $0.0022 | 10.5% | 0.0979 |
+| 5 | Polkadot (DOT) | $0.8337 | 9.2% | 0.0738 |
+| 6 | Ethena (ENA) | $0.0909 | 8.4% | 0.1531 |
+| 7 | Shiba Inu (SHIB) | $0.0000 | 8.0% | 0.0323 |
+| 8 | Injective (INJ) | $4.9600 | 7.3% | 0.0588 |
+| 9 | Monero (XMR) | $365.2000 | 6.0% | 0.0103 |
+| 10 | Arbitrum (ARB) | $0.0820 | 6.0% | 0.0654 |
+| 11 | Avalanche (AVAX) | $6.8100 | 5.9% | 0.0940 |
+| 12 | Cosmos Hub (ATOM) | $1.3800 | 5.8% | 0.0785 |
+| 13 | Hedera (HBAR) | $0.0711 | 4.7% | 0.0150 |
+| 14 | Jupiter (JUP) | $0.1914 | 4.6% | 0.0234 |
+| 15 | MemeCore (M) | $1.2200 | 4.4% | 0.0035 |
 
 ## 💎 Coins That Doubled (Last 21 Days)
 _No coins from the top 100 have doubled in the last 3 weeks._
