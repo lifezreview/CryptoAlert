@@ -1,25 +1,25 @@
-# Whale & Momentum Scanner (2026-08-23 09:21 UTC)
+# Whale & Momentum Scanner (2026-08-24 09:30 UTC)
 
 *Disclaimer: Not financial advice. Data from CoinGecko.*
 
 ## 🔍 Trending Coins (Search & Interest Surge)
 | Coin | Symbol | Market Cap Rank | Trending Score |
 |------|--------|-----------------|----------------|
-| Pump.fun | PUMP | 44 | 0.0 |
-| pipedog | PIPEDOG | 687 | 1.0 |
-| Hyperliquid | HYPE | 9 | 2.0 |
-| The Interfold | FOLD | 550 | 3.0 |
+| Pons | PONS | 439 | 0.0 |
+| Hyperliquid | HYPE | 9 | 1.0 |
+| Lighter | LIT | 74 | 2.0 |
+| CyberLeek | CYBERLEEK | 825 | 3.0 |
 | Zcash | ZEC | 11 | 4.0 |
-| Official Trump | TRUMP | 92 | 5.0 |
-| Solana | SOL | 7 | 6.0 |
-| Lighter | LIT | 76 | 7.0 |
-| Aligned | ALIGN | 722 | 8.0 |
-| XRP | XRP | 4 | 9.0 |
-| Ethena | ENA | 51 | 10.0 |
-| Chainlink | LINK | 15 | 11.0 |
-| Bitcoin | BTC | 1 | 12.0 |
-| Pi Network | PI | 70 | 13.0 |
-| Sui | SUI | 29 | 14.0 |
+| Aligned | ALIGN | 728 | 5.0 |
+| Pump.fun | PUMP | 46 | 6.0 |
+| Bitcoin | BTC | 1 | 7.0 |
+| Cash Cat | CASHCAT | 207 | 8.0 |
+| Pi Network | PI | 70 | 9.0 |
+| Ether.fi | ETHFI | 92 | 10.0 |
+| Ethena | ENA | 54 | 11.0 |
+| Monad | MON | 122 | 12.0 |
+| The Interfold | FOLD | 618 | 13.0 |
+| Aster | ASTER | 48 | 14.0 |
 
 ## 📊 Abnormal Volume (Potential Whale Activity)
 _No significant volume anomalies in the top 100._
@@ -27,21 +27,21 @@ _No significant volume anomalies in the top 100._
 ## 🚀 Top Momentum Coins (7d)
 | # | Coin | Price | 7d Change | Vol/MCap |
 |---|------|-------|-----------|----------|
-| 1 | Ethena (ENA) | $0.1678 | 96.8% | 0.3623 |
-| 2 | Pump.fun (PUMP) | $0.0052 | 85.9% | 0.3514 |
-| 3 | Official Trump (TRUMP) | $2.4800 | 75.5% | 1.7945 |
-| 4 | Zcash (ZEC) | $809.2400 | 65.6% | 0.1035 |
-| 5 | Pepe (PEPE) | $0.0000 | 52.5% | 0.3721 |
-| 6 | XRP (XRP) | $1.4800 | 47.3% | 0.0699 |
-| 7 | Bitway (BTW) | $0.4278 | 46.4% | 0.0133 |
-| 8 | Aave (AAVE) | $123.5800 | 44.1% | 0.2549 |
-| 9 | Lighter (LIT) | $3.3000 | 42.7% | 0.1065 |
-| 10 | POL (ex-MATIC) (POL) | $0.1067 | 40.9% | 0.1406 |
-| 11 | Venice Token (VVV) | $16.8100 | 39.6% | 0.0579 |
-| 12 | Hyperliquid (HYPE) | $78.9400 | 38.0% | 0.0483 |
-| 13 | Arbitrum (ARB) | $0.0982 | 33.3% | 0.1301 |
-| 14 | Bitcoin Cash (BCH) | $270.6100 | 33.0% | 0.0419 |
-| 15 | WhiteBIT Coin (WBT) | $71.3300 | 30.5% | 0.0157 |
+| 1 | Ethena (ENA) | $0.1616 | 91.6% | 0.4173 |
+| 2 | Official Trump (TRUMP) | $2.4500 | 71.7% | 1.5511 |
+| 3 | Pump.fun (PUMP) | $0.0049 | 64.4% | 0.1845 |
+| 4 | Zcash (ZEC) | $830.2600 | 61.7% | 0.0937 |
+| 5 | Aave (AAVE) | $140.8500 | 60.1% | 0.3799 |
+| 6 | Pudgy Penguins (PENGU) | $0.0095 | 58.1% | 0.8131 |
+| 7 | Pepe (PEPE) | $0.0000 | 53.3% | 0.2355 |
+| 8 | Lighter (LIT) | $3.4900 | 46.2% | 0.1905 |
+| 9 | XRP (XRP) | $1.4700 | 45.6% | 0.0593 |
+| 10 | POL (ex-MATIC) (POL) | $0.1136 | 45.0% | 0.0785 |
+| 11 | Venice Token (VVV) | $16.7600 | 36.9% | 0.0279 |
+| 12 | Morpho (MORPHO) | $2.7900 | 33.6% | 0.0509 |
+| 13 | Uniswap (UNI) | $4.3600 | 31.4% | 0.2142 |
+| 14 | Arbitrum (ARB) | $0.0991 | 31.1% | 0.1297 |
+| 15 | WhiteBIT Coin (WBT) | $72.2700 | 31.0% | 0.0164 |
 
 ## 💎 Coins That Doubled (Last 21 Days)
 _No coins from the top 100 have doubled in the last 3 weeks._
