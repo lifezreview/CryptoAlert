@@ -1,4 +1,4 @@
-# Whale & Momentum Scanner (2026-08-29 14:00 UTC)
+# Whale & Momentum Scanner (2026-08-29 14:06 UTC)
 
 *Disclaimer: Not financial advice. Data from CoinGecko.*
 
@@ -28,20 +28,20 @@ _No significant volume anomalies in the top 100._
 | # | Coin | Price | 7d Change | Vol/MCap |
 |---|------|-------|-----------|----------|
 | 1 | Rain (RAIN) | $0.0176 | 24.4% | 0.0031 |
-| 2 | VeChain (VET) | $0.0067 | 19.9% | 0.0207 |
-| 3 | Solana (SOL) | $103.9300 | 11.2% | 0.0726 |
-| 4 | Lighter (LIT) | $3.5000 | 10.7% | 0.0670 |
-| 5 | Monero (XMR) | $465.1300 | 9.4% | 0.0089 |
-| 6 | Morpho (MORPHO) | $2.4400 | 8.8% | 0.0183 |
-| 7 | Jupiter (JUP) | $0.2175 | 7.3% | 0.0723 |
-| 8 | Pudgy Penguins (PENGU) | $0.0091 | 6.9% | 0.3247 |
-| 9 | Uniswap (UNI) | $4.4100 | 6.4% | 0.0884 |
-| 10 | Aster (ASTER) | $0.7025 | 6.1% | 0.0584 |
-| 11 | Mantle (MNT) | $0.5129 | 5.6% | 0.0135 |
-| 12 | Bittensor (TAO) | $236.4600 | 5.4% | 0.0649 |
-| 13 | Hyperliquid (HYPE) | $81.8100 | 4.6% | 0.0678 |
-| 14 | Gate (GT) | $7.9600 | 3.3% | 0.0017 |
-| 15 | Venice Token (VVV) | $16.1700 | 2.8% | 0.0273 |
+| 2 | VeChain (VET) | $0.0067 | 19.4% | 0.0211 |
+| 3 | Solana (SOL) | $103.8400 | 10.7% | 0.0695 |
+| 4 | Lighter (LIT) | $3.4900 | 9.6% | 0.0671 |
+| 5 | Monero (XMR) | $463.6400 | 9.4% | 0.0088 |
+| 6 | Morpho (MORPHO) | $2.4400 | 9.0% | 0.0182 |
+| 7 | Official Trump (TRUMP) | $2.6900 | 8.3% | 1.2940 |
+| 8 | Jupiter (JUP) | $0.2173 | 7.2% | 0.0713 |
+| 9 | Pudgy Penguins (PENGU) | $0.0091 | 6.3% | 0.3134 |
+| 10 | Bittensor (TAO) | $236.3400 | 6.2% | 0.0587 |
+| 11 | Aster (ASTER) | $0.7020 | 5.8% | 0.0578 |
+| 12 | Hyperliquid (HYPE) | $81.7700 | 5.5% | 0.0649 |
+| 13 | Mantle (MNT) | $0.5127 | 4.6% | 0.0132 |
+| 14 | Uniswap (UNI) | $4.4100 | 3.7% | 0.0845 |
+| 15 | Internet Computer (ICP) | $2.4600 | 3.2% | 0.0317 |
 
 ## 💎 Coins That Doubled (Last 21 Days)
 _No coins from the top 100 have doubled in the last 3 weeks._
