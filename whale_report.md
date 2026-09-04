@@ -1,25 +1,25 @@
-# Whale & Momentum Scanner (2026-09-04 12:56 UTC)
+# Whale & Momentum Scanner (2026-09-04 13:04 UTC)
 
 *Disclaimer: Not financial advice. Data from CoinGecko.*
 
 ## 🔍 Trending Coins (Search & Interest Surge)
 | Coin | Symbol | Market Cap Rank | Trending Score |
 |------|--------|-----------------|----------------|
-| Lil' Shrub | SHRUB | 277 | 0.0 |
-| Pons | PONS | 105 | 1.0 |
+| Lil' Shrub | SHRUB | 276 | 0.0 |
+| Pons | PONS | 111 | 1.0 |
 | Zcash | ZEC | 11 | 2.0 |
-| MarsCoin | MARSCOIN | 183 | 3.0 |
-| Lighter | LIT | 69 | 4.0 |
-| CLUSTER PROTOCOL | CP | 508 | 5.0 |
-| Useless Coin | USELESS | 155 | 6.0 |
-| Bitcoin | BTC | 1 | 7.0 |
-| Cash Cat | CASHCAT | 151 | 8.0 |
+| MarsCoin | MARSCOIN | 189 | 3.0 |
+| Useless Coin | USELESS | 160 | 4.0 |
+| Lighter | LIT | 69 | 5.0 |
+| Bitcoin | BTC | 1 | 6.0 |
+| CLUSTER PROTOCOL | CP | 501 | 7.0 |
+| Cash Cat | CASHCAT | 153 | 8.0 |
 | Uniswap | UNI | 27 | 9.0 |
 | Pump.fun | PUMP | 52 | 10.0 |
-| Solana | SOL | 7 | 11.0 |
-| Plasma | XPL | 145 | 12.0 |
-| Bittensor | TAO | 44 | 13.0 |
-| Ethena | ENA | 53 | 14.0 |
+| Bittensor | TAO | 44 | 11.0 |
+| Solana | SOL | 7 | 12.0 |
+| Ethena | ENA | 53 | 13.0 |
+| Plasma | XPL | 147 | 14.0 |
 
 ## 📊 Abnormal Volume (Potential Whale Activity)
 _No significant volume anomalies in the top 100._
@@ -27,21 +27,21 @@ _No significant volume anomalies in the top 100._
 ## 🚀 Top Momentum Coins (7d)
 | # | Coin | Price | 7d Change | Vol/MCap |
 |---|------|-------|-----------|----------|
-| 1 | Arbitrum (ARB) | $0.1307 | 48.8% | 0.4521 |
-| 2 | Uniswap (UNI) | $6.1500 | 36.9% | 0.2427 |
-| 3 | Dash (DASH) | $50.4500 | 36.2% | 0.4177 |
-| 4 | Lighter (LIT) | $4.5800 | 32.6% | 0.1545 |
-| 5 | Zcash (ZEC) | $985.7000 | 26.4% | 0.0787 |
-| 6 | Monero (XMR) | $532.0400 | 16.4% | 0.0210 |
-| 7 | PancakeSwap (CAKE) | $1.9900 | 16.0% | 0.1394 |
-| 8 | Curve DAO (CRV) | $0.3565 | 16.0% | 0.1519 |
-| 9 | SPX6900 (SPX) | $0.6177 | 13.6% | 0.0525 |
-| 10 | Mantle (MNT) | $0.5754 | 11.8% | 0.0177 |
-| 11 | JUST (JST) | $0.1086 | 11.8% | 0.0190 |
-| 12 | ​​Stable (STABLE) | $0.0290 | 10.3% | 0.0138 |
-| 13 | Filecoin (FIL) | $0.7484 | 9.8% | 0.1461 |
-| 14 | Bitway (BTW) | $0.4507 | 9.2% | 0.0193 |
-| 15 | NEAR Protocol (NEAR) | $1.9500 | 8.5% | 0.1337 |
+| 1 | Arbitrum (ARB) | $0.1288 | 43.0% | 0.4668 |
+| 2 | Uniswap (UNI) | $6.0700 | 32.1% | 0.2421 |
+| 3 | Lighter (LIT) | $4.5700 | 31.8% | 0.1595 |
+| 4 | Dash (DASH) | $49.9400 | 29.8% | 0.4193 |
+| 5 | Zcash (ZEC) | $984.5800 | 23.2% | 0.0794 |
+| 6 | PancakeSwap (CAKE) | $1.9900 | 14.7% | 0.1424 |
+| 7 | JUST (JST) | $0.1086 | 11.3% | 0.0186 |
+| 8 | Bitway (BTW) | $0.4490 | 11.2% | 0.0194 |
+| 9 | Curve DAO (CRV) | $0.3549 | 11.2% | 0.1528 |
+| 10 | Monero (XMR) | $527.5400 | 11.1% | 0.0211 |
+| 11 | Mantle (MNT) | $0.5775 | 9.8% | 0.0169 |
+| 12 | ​​Stable (STABLE) | $0.0290 | 7.9% | 0.0138 |
+| 13 | SPX6900 (SPX) | $0.6154 | 6.8% | 0.0474 |
+| 14 | Filecoin (FIL) | $0.7461 | 6.4% | 0.1462 |
+| 15 | Aave (AAVE) | $131.0900 | 4.7% | 0.1672 |
 
 ## 💎 Coins That Doubled (Last 21 Days)
 _No coins from the top 100 have doubled in the last 3 weeks._
