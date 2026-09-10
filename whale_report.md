@@ -1,4 +1,4 @@
-# Whale & Momentum Scanner (2026-09-10 13:08 UTC)
+# Whale & Momentum Scanner (2026-09-10 13:15 UTC)
 
 *Disclaimer: Not financial advice. Data from CoinGecko.*
 
@@ -27,21 +27,21 @@ _No significant volume anomalies in the top 100._
 ## 🚀 Top Momentum Coins (7d)
 | # | Coin | Price | 7d Change | Vol/MCap |
 |---|------|-------|-----------|----------|
-| 1 | Venice Token (VVV) | $23.8800 | 41.2% | 0.1538 |
-| 2 | Zcash (ZEC) | $1185.8800 | 40.9% | 0.0678 |
-| 3 | Dash (DASH) | $56.6000 | 31.1% | 0.2554 |
+| 1 | Venice Token (VVV) | $24.1800 | 41.2% | 0.1524 |
+| 2 | Zcash (ZEC) | $1163.3200 | 40.9% | 0.0702 |
+| 3 | Dash (DASH) | $56.2800 | 31.1% | 0.2560 |
 | 4 | Kaspa (KAS) | $0.0377 | 30.2% | 0.0279 |
-| 5 | NEAR Protocol (NEAR) | $2.4100 | 26.6% | 0.1796 |
-| 6 | Polkadot (DOT) | $1.0970 | 24.6% | 0.1045 |
-| 7 | Injective (INJ) | $6.0200 | 20.5% | 0.1374 |
-| 8 | Cosmos Hub (ATOM) | $1.8000 | 19.3% | 0.0695 |
-| 9 | VeChain (VET) | $0.0079 | 18.1% | 0.0327 |
-| 10 | Lighter (LIT) | $4.5100 | 12.9% | 0.0884 |
-| 11 | WhiteBIT Coin (WBT) | $79.4300 | 11.3% | 0.0113 |
-| 12 | Bitway (BTW) | $0.4707 | 10.5% | 0.0084 |
+| 5 | NEAR Protocol (NEAR) | $2.3900 | 26.6% | 0.1795 |
+| 6 | Polkadot (DOT) | $1.0940 | 24.6% | 0.1036 |
+| 7 | Injective (INJ) | $5.9800 | 20.5% | 0.1397 |
+| 8 | Cosmos Hub (ATOM) | $1.7900 | 19.3% | 0.0692 |
+| 9 | VeChain (VET) | $0.0079 | 18.1% | 0.0330 |
+| 10 | Lighter (LIT) | $4.4800 | 12.9% | 0.0896 |
+| 11 | WhiteBIT Coin (WBT) | $79.2200 | 11.3% | 0.0114 |
+| 12 | Bitway (BTW) | $0.4705 | 10.5% | 0.0084 |
 | 13 | MemeCore (M) | $1.1800 | 10.4% | 0.0005 |
-| 14 | Gate (GT) | $9.0500 | 9.9% | 0.0029 |
-| 15 | Bittensor (TAO) | $244.1800 | 9.6% | 0.0965 |
+| 14 | Gate (GT) | $8.9800 | 9.9% | 0.0029 |
+| 15 | Bittensor (TAO) | $242.1700 | 9.6% | 0.0971 |
 
 ## 💎 Coins That Doubled (Last 21 Days)
 _No coins from the top 100 have doubled in the last 3 weeks._
