@@ -1,4 +1,4 @@
-# Whale & Momentum Scanner (2026-09-13 13:28 UTC)
+# Whale & Momentum Scanner (2026-09-13 13:34 UTC)
 
 *Disclaimer: Not financial advice. Data from CoinGecko.*
 
@@ -27,21 +27,21 @@ _No significant volume anomalies in the top 100._
 ## 🚀 Top Momentum Coins (7d)
 | # | Coin | Price | 7d Change | Vol/MCap |
 |---|------|-------|-----------|----------|
-| 1 | Bitway (BTW) | $0.6655 | 41.8% | 0.0173 |
-| 2 | Venice Token (VVV) | $22.1900 | 31.1% | 0.0276 |
-| 3 | Injective (INJ) | $5.8600 | 14.3% | 0.1070 |
-| 4 | Kaspa (KAS) | $0.0342 | 13.1% | 0.0054 |
-| 5 | Ether.fi (ETHFI) | $0.6473 | 10.8% | 0.1069 |
-| 6 | VeChain (VET) | $0.0077 | 9.7% | 0.0211 |
-| 7 | WhiteBIT Coin (WBT) | $79.3400 | 7.9% | 0.0031 |
-| 8 | Filecoin (FIL) | $0.8358 | 5.0% | 0.0844 |
-| 9 | Polkadot (DOT) | $1.0060 | 2.8% | 0.0627 |
-| 10 | Pi Network (PI) | $0.0977 | 2.3% | 0.0054 |
-| 11 | Cronos (CRO) | $0.0583 | 2.2% | 0.0024 |
+| 1 | Bitway (BTW) | $0.6662 | 41.8% | 0.0174 |
+| 2 | Venice Token (VVV) | $21.6800 | 31.1% | 0.0285 |
+| 3 | Injective (INJ) | $5.8900 | 14.3% | 0.1107 |
+| 4 | Kaspa (KAS) | $0.0343 | 13.1% | 0.0054 |
+| 5 | Ether.fi (ETHFI) | $0.6461 | 10.8% | 0.1055 |
+| 6 | VeChain (VET) | $0.0077 | 9.7% | 0.0210 |
+| 7 | WhiteBIT Coin (WBT) | $79.3600 | 7.9% | 0.0032 |
+| 8 | Filecoin (FIL) | $0.8382 | 5.0% | 0.0846 |
+| 9 | Polkadot (DOT) | $1.0050 | 2.8% | 0.0608 |
+| 10 | Pi Network (PI) | $0.0975 | 2.3% | 0.0054 |
+| 11 | Cronos (CRO) | $0.0582 | 2.2% | 0.0024 |
 | 12 | TRON (TRX) | $0.3406 | 1.7% | 0.0102 |
 | 13 | MemeCore (M) | $1.1400 | 1.7% | 0.0004 |
-| 14 | World Liberty Financial (WLFI) | $0.0575 | 1.2% | 0.0398 |
-| 15 | Aerodrome Finance (AERO) | $0.5586 | 1.0% | 0.0263 |
+| 14 | World Liberty Financial (WLFI) | $0.0573 | 1.2% | 0.0377 |
+| 15 | Aerodrome Finance (AERO) | $0.5582 | 1.0% | 0.0265 |
 
 ## 💎 Coins That Doubled (Last 21 Days)
 _No coins from the top 100 have doubled in the last 3 weeks._
