@@ -1,4 +1,4 @@
-# Whale & Momentum Scanner (2026-09-18 13:10 UTC)
+# Whale & Momentum Scanner (2026-09-18 13:18 UTC)
 
 *Disclaimer: Not financial advice. Data from CoinGecko.*
 
@@ -27,21 +27,21 @@ _No significant volume anomalies in the top 100._
 ## 🚀 Top Momentum Coins (7d)
 | # | Coin | Price | 7d Change | Vol/MCap |
 |---|------|-------|-----------|----------|
-| 1 | Akedo (AKE) | $0.0262 | 83.6% | 0.0329 |
-| 2 | Arbitrum (ARB) | $0.2124 | 51.4% | 0.5228 |
-| 3 | NEAR Protocol (NEAR) | $3.6100 | 46.3% | 0.4502 |
-| 4 | Uniswap (UNI) | $8.6300 | 44.4% | 0.4168 |
-| 5 | Bitway (BTW) | $0.6783 | 34.5% | 0.0040 |
-| 6 | Zcash (ZEC) | $1460.9800 | 32.9% | 0.0880 |
-| 7 | PancakeSwap (CAKE) | $2.4700 | 15.6% | 0.1342 |
-| 8 | Pump.fun (PUMP) | $0.0042 | 15.4% | 0.0899 |
-| 9 | Aptos (APT) | $0.6866 | 15.2% | 0.3261 |
-| 10 | JUST (JST) | $0.1181 | 15.0% | 0.0308 |
-| 11 | Hyperliquid (HYPE) | $90.8500 | 14.7% | 0.0826 |
-| 12 | Ethena (ENA) | $0.1621 | 13.9% | 0.2467 |
-| 13 | Ondo (ONDO) | $0.3942 | 13.8% | 0.1303 |
-| 14 | Pepe (PEPE) | $0.0000 | 13.3% | 0.1694 |
-| 15 | Aerodrome Finance (AERO) | $0.6168 | 12.8% | 0.0934 |
+| 1 | Akedo (AKE) | $0.0260 | 83.6% | 0.0329 |
+| 2 | Arbitrum (ARB) | $0.2149 | 51.4% | 0.5124 |
+| 3 | NEAR Protocol (NEAR) | $3.5900 | 46.3% | 0.4373 |
+| 4 | Uniswap (UNI) | $8.6600 | 44.4% | 0.4165 |
+| 5 | Bitway (BTW) | $0.6808 | 34.5% | 0.0039 |
+| 6 | Zcash (ZEC) | $1465.8300 | 32.9% | 0.0828 |
+| 7 | PancakeSwap (CAKE) | $2.4700 | 15.6% | 0.1326 |
+| 8 | Pump.fun (PUMP) | $0.0042 | 15.4% | 0.0912 |
+| 9 | Aptos (APT) | $0.6871 | 15.2% | 0.3276 |
+| 10 | JUST (JST) | $0.1184 | 15.0% | 0.0148 |
+| 11 | Hyperliquid (HYPE) | $90.7400 | 14.7% | 0.0818 |
+| 12 | Ethena (ENA) | $0.1620 | 13.9% | 0.2417 |
+| 13 | Ondo (ONDO) | $0.3923 | 13.8% | 0.1333 |
+| 14 | Pepe (PEPE) | $0.0000 | 13.3% | 0.1676 |
+| 15 | Aerodrome Finance (AERO) | $0.6152 | 12.8% | 0.0905 |
 
 ## 💎 Coins That Doubled (Last 21 Days)
 _No coins from the top 100 have doubled in the last 3 weeks._
