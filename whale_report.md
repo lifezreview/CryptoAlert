@@ -1,4 +1,4 @@
-# Whale & Momentum Scanner (2026-09-19 12:42 UTC)
+# Whale & Momentum Scanner (2026-09-19 12:48 UTC)
 
 *Disclaimer: Not financial advice. Data from CoinGecko.*
 
@@ -27,21 +27,21 @@ _No significant volume anomalies in the top 100._
 ## 🚀 Top Momentum Coins (7d)
 | # | Coin | Price | 7d Change | Vol/MCap |
 |---|------|-------|-----------|----------|
-| 1 | Akedo (AKE) | $0.0622 | 322.0% | 0.1577 |
-| 2 | NEAR Protocol (NEAR) | $3.6100 | 54.9% | 0.2790 |
-| 3 | Arbitrum (ARB) | $0.2098 | 48.2% | 0.3299 |
-| 4 | Uniswap (UNI) | $9.1500 | 42.9% | 0.2574 |
-| 5 | Ethena (ENA) | $0.1984 | 34.9% | 0.3569 |
-| 6 | Zcash (ZEC) | $1533.4300 | 33.8% | 0.0640 |
-| 7 | Injective (INJ) | $7.6700 | 29.6% | 0.3737 |
-| 8 | Avalanche (AVAX) | $9.1500 | 25.3% | 0.1668 |
-| 9 | Filecoin (FIL) | $0.9970 | 21.4% | 0.2724 |
-| 10 | Aptos (APT) | $0.7344 | 20.8% | 0.4649 |
-| 11 | Venice Token (VVV) | $28.0400 | 20.3% | 0.0696 |
-| 12 | Sui (SUI) | $0.8512 | 18.7% | 0.2518 |
-| 13 | Morpho (MORPHO) | $2.7400 | 18.3% | 0.0364 |
-| 14 | Stacks (STX) | $0.3134 | 17.9% | 0.0682 |
-| 15 | Lighter (LIT) | $5.2000 | 17.6% | 0.0880 |
+| 1 | Akedo (AKE) | $0.0615 | 322.0% | 0.1579 |
+| 2 | NEAR Protocol (NEAR) | $3.6200 | 54.9% | 0.2768 |
+| 3 | Arbitrum (ARB) | $0.2089 | 48.2% | 0.3299 |
+| 4 | Uniswap (UNI) | $9.1200 | 42.9% | 0.2561 |
+| 5 | Ethena (ENA) | $0.1970 | 34.9% | 0.3606 |
+| 6 | Zcash (ZEC) | $1533.3000 | 33.8% | 0.0640 |
+| 7 | Injective (INJ) | $7.6200 | 29.6% | 0.3643 |
+| 8 | Avalanche (AVAX) | $9.2100 | 25.3% | 0.1768 |
+| 9 | Filecoin (FIL) | $0.9904 | 21.4% | 0.2707 |
+| 10 | Aptos (APT) | $0.7334 | 20.8% | 0.4634 |
+| 11 | Venice Token (VVV) | $27.9100 | 20.3% | 0.0713 |
+| 12 | Sui (SUI) | $0.8516 | 18.7% | 0.2527 |
+| 13 | Morpho (MORPHO) | $2.7300 | 18.3% | 0.0365 |
+| 14 | Stacks (STX) | $0.3120 | 17.9% | 0.0682 |
+| 15 | Lighter (LIT) | $5.1100 | 17.6% | 0.0890 |
 
 ## 💎 Coins That Doubled (Last 21 Days)
 _No coins from the top 100 have doubled in the last 3 weeks._
