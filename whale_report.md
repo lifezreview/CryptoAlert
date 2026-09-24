@@ -1,25 +1,25 @@
-# Whale & Momentum Scanner (2026-09-23 13:52 UTC)
+# Whale & Momentum Scanner (2026-09-24 13:49 UTC)
 
 *Disclaimer: Not financial advice. Data from CoinGecko.*
 
 ## 🔍 Trending Coins (Search & Interest Surge)
 | Coin | Symbol | Market Cap Rank | Trending Score |
 |------|--------|-----------------|----------------|
-| Edel | EDEL | 912 | 0.0 |
-| NEAR Protocol | NEAR | 22 | 1.0 |
-| Zcash | ZEC | 9 | 2.0 |
-| Pudgy Penguins | PENGU | 99 | 3.0 |
-| Uniswap | UNI | 23 | 4.0 |
-| Meteora | MET | 185 | 5.0 |
-| Lighter | LIT | 70 | 6.0 |
-| Bitcoin | BTC | 1 | 7.0 |
-| Derive | DRV | 118 | 8.0 |
-| Jupiter | JUP | 78 | 9.0 |
-| Aurora | AURORA | 450 | 10.0 |
-| Hyperliquid | HYPE | 11 | 11.0 |
-| Pons | PONS | 119 | 12.0 |
-| LayerZero | ZRO | 109 | 13.0 |
-| Injective | INJ | 90 | 14.0 |
+| Ondo | ONDO | 44 | 0.0 |
+| Edel | EDEL | 948 | 1.0 |
+| Hyperliquid | HYPE | 11 | 2.0 |
+| NEAR Protocol | NEAR | 22 | 3.0 |
+| Pudgy Penguins | PENGU | 98 | 4.0 |
+| Bitcoin | BTC | 1 | 5.0 |
+| Lighter | LIT | 71 | 6.0 |
+| Pons | PONS | 123 | 7.0 |
+| Artificial Superintelligence Alliance | FET | 113 | 8.0 |
+| Zcash | ZEC | 9 | 9.0 |
+| Derive | DRV | 121 | 10.0 |
+| STONK | STONK | 151 | 11.0 |
+| Sui | SUI | 30 | 12.0 |
+| peaq | PEAQ | 287 | 13.0 |
+| Morpho | MORPHO | 50 | 14.0 |
 
 ## 📊 Abnormal Volume (Potential Whale Activity)
 _No significant volume anomalies in the top 100._
@@ -27,21 +27,21 @@ _No significant volume anomalies in the top 100._
 ## 🚀 Top Momentum Coins (7d)
 | # | Coin | Price | 7d Change | Vol/MCap |
 |---|------|-------|-----------|----------|
-| 1 | NEAR Protocol (NEAR) | $4.7300 | 89.6% | 0.3687 |
-| 2 | Akedo (AKE) | $0.0508 | 78.4% | 0.0419 |
-| 3 | Bitcoin Cash (BCH) | $354.7300 | 63.5% | 0.2024 |
-| 4 | Aptos (APT) | $0.8167 | 56.8% | 0.2460 |
-| 5 | Injective (INJ) | $8.0700 | 51.9% | 0.2476 |
-| 6 | Uniswap (UNI) | $9.5500 | 51.5% | 0.3552 |
-| 7 | Pudgy Penguins (PENGU) | $0.0103 | 47.7% | 0.8424 |
-| 8 | Ethena (ENA) | $0.2104 | 47.4% | 0.2023 |
-| 9 | Avalanche (AVAX) | $10.6300 | 46.9% | 0.1356 |
-| 10 | Sui (SUI) | $1.0050 | 46.1% | 0.2357 |
-| 11 | Arbitrum (ARB) | $0.2292 | 41.6% | 0.3409 |
-| 12 | Jupiter (JUP) | $0.3007 | 41.5% | 0.0915 |
-| 13 | Pepe (PEPE) | $0.0000 | 41.3% | 0.2765 |
-| 14 | Bittensor (TAO) | $309.2000 | 40.7% | 0.0960 |
-| 15 | Venice Token (VVV) | $32.0400 | 37.8% | 0.0430 |
+| 1 | Akedo (AKE) | $0.0424 | 92.2% | 0.0429 |
+| 2 | NEAR Protocol (NEAR) | $4.4900 | 54.0% | 0.3259 |
+| 3 | Bitcoin Cash (BCH) | $335.6200 | 50.1% | 0.1126 |
+| 4 | Bitway (BTW) | $1.0490 | 47.4% | 0.0087 |
+| 5 | Injective (INJ) | $8.1500 | 44.7% | 0.2531 |
+| 6 | Ethena (ENA) | $0.2174 | 39.5% | 0.2096 |
+| 7 | Pudgy Penguins (PENGU) | $0.0099 | 36.0% | 0.5444 |
+| 8 | Aptos (APT) | $0.7918 | 35.2% | 0.1312 |
+| 9 | Avalanche (AVAX) | $10.2400 | 33.4% | 0.1202 |
+| 10 | Sui (SUI) | $0.9830 | 33.2% | 0.2166 |
+| 11 | Uniswap (UNI) | $9.2000 | 31.6% | 0.2273 |
+| 12 | Render (RENDER) | $1.8400 | 30.3% | 0.0826 |
+| 13 | Ondo (ONDO) | $0.4823 | 30.0% | 0.2512 |
+| 14 | Jupiter (JUP) | $0.2949 | 29.7% | 0.1044 |
+| 15 | Arbitrum (ARB) | $0.2182 | 28.7% | 0.2214 |
 
 ## 💎 Coins That Doubled (Last 21 Days)
 _No coins from the top 100 have doubled in the last 3 weeks._
