@@ -1,25 +1,25 @@
-# Whale & Momentum Scanner (2026-09-30 15:31 UTC)
+# Whale & Momentum Scanner (2026-10-01 15:42 UTC)
 
 *Disclaimer: Not financial advice. Data from CoinGecko.*
 
 ## 🔍 Trending Coins (Search & Interest Surge)
 | Coin | Symbol | Market Cap Rank | Trending Score |
 |------|--------|-----------------|----------------|
-| Quant | QNT | 32 | 0.0 |
-| Official Trump | TRUMP | 108 | 1.0 |
-| Edel | EDEL | 945 | 2.0 |
-| NEAR Protocol | NEAR | 21 | 3.0 |
-| Lighter | LIT | 80 | 4.0 |
-| Pudgy Penguins | PENGU | 101 | 5.0 |
-| Backpack | BP | 160 | 6.0 |
-| Pons | PONS | 134 | 7.0 |
-| Ethena | ENA | 41 | 8.0 |
-| Chainlink | LINK | 13 | 9.0 |
+| Official Trump | TRUMP | 108 | 0.0 |
+| NEAR Protocol | NEAR | 21 | 1.0 |
+| Kinetiq | KNTQ | 320 | 2.0 |
+| Quant | QNT | 34 | 3.0 |
+| Backpack | BP | 137 | 4.0 |
+| Monad | MON | 130 | 5.0 |
+| Pudgy Penguins | PENGU | 106 | 6.0 |
+| Zcash | ZEC | 10 | 7.0 |
+| Ondo | ONDO | 47 | 8.0 |
+| Sui | SUI | 28 | 9.0 |
 | Bitcoin | BTC | 1 | 10.0 |
-| Pearl | PRL | 124 | 11.0 |
-| Ondo | ONDO | 46 | 12.0 |
-| Zcash | ZEC | 10 | 13.0 |
-| Hyperliquid | HYPE | 11 | 14.0 |
+| Lighter | LIT | 82 | 11.0 |
+| Pons | PONS | 135 | 12.0 |
+| Injective | INJ | 91 | 13.0 |
+| Uniswap | UNI | 23 | 14.0 |
 
 ## 📊 Abnormal Volume (Potential Whale Activity)
 _No significant volume anomalies in the top 100._
@@ -27,21 +27,21 @@ _No significant volume anomalies in the top 100._
 ## 🚀 Top Momentum Coins (7d)
 | # | Coin | Price | 7d Change | Vol/MCap |
 |---|------|-------|-----------|----------|
-| 1 | Quant (QNT) | $299.0100 | 297.3% | 0.2285 |
-| 2 | Pump.fun (PUMP) | $0.0056 | 34.7% | 0.1529 |
-| 3 | Bitway (BTW) | $1.2600 | 31.0% | 0.0129 |
-| 4 | Ethena (ENA) | $0.2618 | 25.0% | 0.2764 |
-| 5 | Worldcoin (WLD) | $0.5286 | 20.5% | 0.2907 |
-| 6 | Ondo (ONDO) | $0.4934 | 16.5% | 0.1154 |
-| 7 | Sui (SUI) | $1.1500 | 15.1% | 0.2052 |
-| 8 | JUST (JST) | $0.1287 | 14.5% | 0.0334 |
-| 9 | Hedera (HBAR) | $0.1074 | 14.3% | 0.0917 |
-| 10 | Algorand (ALGO) | $0.1230 | 13.4% | 0.1547 |
-| 11 | Canton (CC) | $0.1239 | 13.4% | 0.0056 |
-| 12 | Aerodrome Finance (AERO) | $0.8063 | 13.4% | 0.0740 |
-| 13 | Ether.fi (ETHFI) | $0.7675 | 11.5% | 0.0781 |
-| 14 | Chainlink (LINK) | $14.1400 | 11.5% | 0.0570 |
-| 15 | ​​Stable (STABLE) | $0.0281 | 11.4% | 0.0130 |
+| 1 | Quant (QNT) | $258.6500 | 231.8% | 0.1391 |
+| 2 | Midnight (NIGHT) | $0.0393 | 66.8% | 0.1825 |
+| 3 | Pump.fun (PUMP) | $0.0054 | 41.3% | 0.1255 |
+| 4 | Bitway (BTW) | $1.4500 | 37.7% | 0.0108 |
+| 5 | Stacks (STX) | $0.3868 | 22.9% | 0.1952 |
+| 6 | XDC Network (XDC) | $0.0351 | 19.9% | 0.0225 |
+| 7 | JUST (JST) | $0.1337 | 19.8% | 0.0367 |
+| 8 | Aave (AAVE) | $167.6800 | 17.1% | 0.1620 |
+| 9 | Worldcoin (WLD) | $0.4910 | 15.3% | 0.2508 |
+| 10 | Ethena (ENA) | $0.2484 | 15.0% | 0.2124 |
+| 11 | Sui (SUI) | $1.1400 | 14.9% | 0.1701 |
+| 12 | Chainlink (LINK) | $14.2700 | 14.2% | 0.0400 |
+| 13 | Aerodrome Finance (AERO) | $0.7788 | 13.9% | 0.0726 |
+| 14 | Algorand (ALGO) | $0.1235 | 13.8% | 0.1189 |
+| 15 | Hedera (HBAR) | $0.1031 | 12.0% | 0.0494 |
 
 ## 💎 Coins That Doubled (Last 21 Days)
 _No coins from the top 100 have doubled in the last 3 weeks._
