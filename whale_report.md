@@ -1,4 +1,4 @@
-# Whale & Momentum Scanner (2026-10-03 13:56 UTC)
+# Whale & Momentum Scanner (2026-10-03 14:06 UTC)
 
 *Disclaimer: Not financial advice. Data from CoinGecko.*
 
@@ -6,20 +6,20 @@
 | Coin | Symbol | Market Cap Rank | Trending Score |
 |------|--------|-----------------|----------------|
 | MESSIER | M87 | 915 | 0.0 |
-| Quant | QNT | 34 | 1.0 |
-| Pons | PONS | 159 | 2.0 |
-| LayerZero | ZRO | 94 | 3.0 |
-| Worldcoin | WLD | 50 | 4.0 |
-| NEAR Protocol | NEAR | 22 | 5.0 |
-| The Sandbox | SAND | 181 | 6.0 |
-| Aave | AAVE | 41 | 7.0 |
-| Bitcoin | BTC | 1 | 8.0 |
-| Backpack | BP | 144 | 9.0 |
+| Pons | PONS | 159 | 1.0 |
+| Quant | QNT | 34 | 2.0 |
+| LayerZero | ZRO | 93 | 3.0 |
+| NEAR Protocol | NEAR | 22 | 4.0 |
+| Worldcoin | WLD | 49 | 5.0 |
+| The Sandbox | SAND | 183 | 6.0 |
+| Moonriver | MOVR | 814 | 7.0 |
+| Pump.fun | PUMP | 42 | 8.0 |
+| Backpack | BP | 145 | 9.0 |
 | Pearl | PRL | 135 | 10.0 |
-| Moonriver | MOVR | 811 | 11.0 |
-| Pump.fun | PUMP | 42 | 12.0 |
-| Aerodrome Finance | AERO | 88 | 13.0 |
-| XRP | XRP | 5 | 14.0 |
+| XRP | XRP | 5 | 11.0 |
+| Zcash | ZEC | 10 | 12.0 |
+| Raydium | RAY | 110 | 13.0 |
+| Arbitrum | ARB | 68 | 14.0 |
 
 ## 📊 Abnormal Volume (Potential Whale Activity)
 _No significant volume anomalies in the top 100._
@@ -27,21 +27,21 @@ _No significant volume anomalies in the top 100._
 ## 🚀 Top Momentum Coins (7d)
 | # | Coin | Price | 7d Change | Vol/MCap |
 |---|------|-------|-----------|----------|
-| 1 | Quant (QNT) | $253.6200 | 143.5% | 0.0917 |
-| 2 | Midnight (NIGHT) | $0.0492 | 93.4% | 0.1287 |
-| 3 | Bitway (BTW) | $1.4500 | 53.4% | 0.0046 |
-| 4 | Pump.fun (PUMP) | $0.0057 | 29.9% | 0.1255 |
-| 5 | LayerZero (ZRO) | $2.0600 | 29.5% | 0.3169 |
-| 6 | Worldcoin (WLD) | $0.6057 | 24.2% | 0.2683 |
-| 7 | Aave (AAVE) | $180.9300 | 17.2% | 0.1527 |
-| 8 | Sky (SKY) | $0.0876 | 12.9% | 0.0188 |
-| 9 | JUST (JST) | $0.1367 | 11.3% | 0.0358 |
-| 10 | Stacks (STX) | $0.3742 | 10.4% | 0.0377 |
-| 11 | Algorand (ALGO) | $0.1315 | 9.6% | 0.0757 |
-| 12 | Hedera (HBAR) | $0.1016 | 7.7% | 0.0279 |
-| 13 | Internet Computer (ICP) | $3.2900 | 2.4% | 0.0347 |
-| 14 | Gram (prev. Toncoin) (GRAM) | $1.5000 | 2.2% | 0.0092 |
-| 15 | Figure Heloc (FIGR_HELOC) | $1.0460 | 2.0% | 0.0013 |
+| 1 | Quant (QNT) | $254.0900 | 145.5% | 0.0910 |
+| 2 | Midnight (NIGHT) | $0.0495 | 91.4% | 0.1236 |
+| 3 | Bitway (BTW) | $1.4500 | 56.8% | 0.0044 |
+| 4 | LayerZero (ZRO) | $2.0800 | 32.8% | 0.3180 |
+| 5 | Pump.fun (PUMP) | $0.0057 | 30.1% | 0.1249 |
+| 6 | Worldcoin (WLD) | $0.6097 | 25.1% | 0.2602 |
+| 7 | Aave (AAVE) | $180.4800 | 17.5% | 0.1521 |
+| 8 | Sky (SKY) | $0.0883 | 12.6% | 0.0181 |
+| 9 | Algorand (ALGO) | $0.1313 | 12.4% | 0.0752 |
+| 10 | JUST (JST) | $0.1368 | 10.7% | 0.0358 |
+| 11 | Stacks (STX) | $0.3758 | 9.2% | 0.0420 |
+| 12 | Hedera (HBAR) | $0.1018 | 8.7% | 0.0280 |
+| 13 | Avalanche (AVAX) | $11.1300 | 3.0% | 0.1048 |
+| 14 | Internet Computer (ICP) | $3.2900 | 2.8% | 0.0344 |
+| 15 | Gram (prev. Toncoin) (GRAM) | $1.5100 | 2.4% | 0.0092 |
 
 ## 💎 Coins That Doubled (Last 21 Days)
 _No coins from the top 100 have doubled in the last 3 weeks._
