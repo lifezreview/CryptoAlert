@@ -1,25 +1,25 @@
-# Whale & Momentum Scanner (2026-10-03 14:06 UTC)
+# Whale & Momentum Scanner (2026-10-04 14:24 UTC)
 
 *Disclaimer: Not financial advice. Data from CoinGecko.*
 
 ## 🔍 Trending Coins (Search & Interest Surge)
 | Coin | Symbol | Market Cap Rank | Trending Score |
 |------|--------|-----------------|----------------|
-| MESSIER | M87 | 915 | 0.0 |
-| Pons | PONS | 159 | 1.0 |
-| Quant | QNT | 34 | 2.0 |
-| LayerZero | ZRO | 93 | 3.0 |
-| NEAR Protocol | NEAR | 22 | 4.0 |
-| Worldcoin | WLD | 49 | 5.0 |
-| The Sandbox | SAND | 183 | 6.0 |
-| Moonriver | MOVR | 814 | 7.0 |
-| Pump.fun | PUMP | 42 | 8.0 |
-| Backpack | BP | 145 | 9.0 |
-| Pearl | PRL | 135 | 10.0 |
-| XRP | XRP | 5 | 11.0 |
-| Zcash | ZEC | 10 | 12.0 |
-| Raydium | RAY | 110 | 13.0 |
-| Arbitrum | ARB | 68 | 14.0 |
+| Super Iguana | SI | 811 | 0.0 |
+| Quant | QNT | 33 | 1.0 |
+| Pons | PONS | 163 | 2.0 |
+| Starknet | STRK | 126 | 3.0 |
+| Pump.fun | PUMP | 40 | 4.0 |
+| Artificial Superintelligence Alliance | FET | 111 | 5.0 |
+| Backpack | BP | 149 | 6.0 |
+| LayerZero | ZRO | 97 | 7.0 |
+| Zcash | ZEC | 10 | 8.0 |
+| Lighter | LIT | 83 | 9.0 |
+| Bitcoin | BTC | 1 | 10.0 |
+| Orbio.so | ORBIO | 300 | 11.0 |
+| Ondo | ONDO | 46 | 12.0 |
+| Grass | GRASS | 120 | 13.0 |
+| Pearl | PRL | 137 | 14.0 |
 
 ## 📊 Abnormal Volume (Potential Whale Activity)
 _No significant volume anomalies in the top 100._
@@ -27,21 +27,21 @@ _No significant volume anomalies in the top 100._
 ## 🚀 Top Momentum Coins (7d)
 | # | Coin | Price | 7d Change | Vol/MCap |
 |---|------|-------|-----------|----------|
-| 1 | Quant (QNT) | $254.0900 | 145.5% | 0.0910 |
-| 2 | Midnight (NIGHT) | $0.0495 | 91.4% | 0.1236 |
-| 3 | Bitway (BTW) | $1.4500 | 56.8% | 0.0044 |
-| 4 | LayerZero (ZRO) | $2.0800 | 32.8% | 0.3180 |
-| 5 | Pump.fun (PUMP) | $0.0057 | 30.1% | 0.1249 |
-| 6 | Worldcoin (WLD) | $0.6097 | 25.1% | 0.2602 |
-| 7 | Aave (AAVE) | $180.4800 | 17.5% | 0.1521 |
-| 8 | Sky (SKY) | $0.0883 | 12.6% | 0.0181 |
-| 9 | Algorand (ALGO) | $0.1313 | 12.4% | 0.0752 |
-| 10 | JUST (JST) | $0.1368 | 10.7% | 0.0358 |
-| 11 | Stacks (STX) | $0.3758 | 9.2% | 0.0420 |
-| 12 | Hedera (HBAR) | $0.1018 | 8.7% | 0.0280 |
-| 13 | Avalanche (AVAX) | $11.1300 | 3.0% | 0.1048 |
-| 14 | Internet Computer (ICP) | $3.2900 | 2.8% | 0.0344 |
-| 15 | Gram (prev. Toncoin) (GRAM) | $1.5100 | 2.4% | 0.0092 |
+| 1 | Midnight (NIGHT) | $0.0490 | 85.9% | 0.0356 |
+| 2 | Quant (QNT) | $256.5500 | 60.2% | 0.0639 |
+| 3 | Pump.fun (PUMP) | $0.0063 | 39.1% | 0.1171 |
+| 4 | LayerZero (ZRO) | $1.9800 | 22.4% | 0.2213 |
+| 5 | Sky (SKY) | $0.0920 | 20.3% | 0.0097 |
+| 6 | Aave (AAVE) | $178.6200 | 15.6% | 0.0912 |
+| 7 | JUST (JST) | $0.1398 | 11.6% | 0.0206 |
+| 8 | Stacks (STX) | $0.3852 | 11.2% | 0.0421 |
+| 9 | Algorand (ALGO) | $0.1320 | 11.0% | 0.0502 |
+| 10 | Hedera (HBAR) | $0.1016 | 7.5% | 0.0170 |
+| 11 | Internet Computer (ICP) | $3.4400 | 6.1% | 0.0374 |
+| 12 | Akedo (AKE) | $0.0342 | 5.5% | 0.0121 |
+| 13 | Bitway (BTW) | $1.2000 | 4.4% | 0.0148 |
+| 14 | Aerodrome Finance (AERO) | $0.8641 | 2.3% | 0.0781 |
+| 15 | Ether.fi (ETHFI) | $0.7419 | 2.2% | 0.0455 |
 
 ## 💎 Coins That Doubled (Last 21 Days)
 _No coins from the top 100 have doubled in the last 3 weeks._
