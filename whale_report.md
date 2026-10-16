@@ -1,25 +1,25 @@
-# Whale & Momentum Scanner (2026-10-15 13:50 UTC)
+# Whale & Momentum Scanner (2026-10-16 13:33 UTC)
 
 *Disclaimer: Not financial advice. Data from CoinGecko.*
 
 ## 🔍 Trending Coins (Search & Interest Surge)
 | Coin | Symbol | Market Cap Rank | Trending Score |
 |------|--------|-----------------|----------------|
-| Bitcoin | BTC | 1 | 0.0 |
-| Pearl | PRL | 102 | 1.0 |
-| Starknet | STRK | 106 | 2.0 |
-| Zerebro | ZEREBRO | 471 | 3.0 |
-| NEAR Protocol | NEAR | 20 | 4.0 |
-| Solana | SOL | 7 | 5.0 |
-| Quantus | QTC | 633 | 6.0 |
-| Aerodrome Finance | AERO | 84 | 7.0 |
-| Ethena | ENA | 41 | 8.0 |
-| Pump.fun | PUMP | 49 | 9.0 |
-| Pudgy Penguins | PENGU | 119 | 10.0 |
-| Plasma | XPL | 128 | 11.0 |
-| Zama | ZAMA | 193 | 12.0 |
-| ZKsync | ZK | 197 | 13.0 |
-| Sui | SUI | 30 | 14.0 |
+| Dacity Coin | DACITY | 788 | 0.0 |
+| astronaut | ASTRO | 902 | 1.0 |
+| streamoors | STREAM | 894 | 2.0 |
+| Sui | SUI | 28 | 3.0 |
+| NeoSoul | DNA | 576 | 4.0 |
+| Injective | INJ | 83 | 5.0 |
+| Celestia | TIA | 95 | 6.0 |
+| Pearl | PRL | 104 | 7.0 |
+| Bitcoin | BTC | 1 | 8.0 |
+| Lighter | LIT | 89 | 9.0 |
+| NEAR Protocol | NEAR | 19 | 10.0 |
+| Pudgy Penguins | PENGU | 118 | 11.0 |
+| Quantus | QTC | 623 | 12.0 |
+| Derive | DRV | 125 | 13.0 |
+| Starknet | STRK | 109 | 14.0 |
 
 ## 📊 Abnormal Volume (Potential Whale Activity)
 _No significant volume anomalies in the top 100._
@@ -27,21 +27,21 @@ _No significant volume anomalies in the top 100._
 ## 🚀 Top Momentum Coins (7d)
 | # | Coin | Price | 7d Change | Vol/MCap |
 |---|------|-------|-----------|----------|
-| 1 | Bitway (BTW) | $2.0100 | 45.1% | 0.0124 |
-| 2 | Beldex (BDX) | $0.0830 | 11.2% | 0.0052 |
-| 3 | Akedo (AKE) | $0.0324 | 9.4% | 0.0293 |
-| 4 | XDC Network (XDC) | $0.0342 | 7.6% | 0.0225 |
-| 5 | Pyth Network (PYTH) | $0.0820 | 7.4% | 0.1702 |
-| 6 | Aerodrome Finance (AERO) | $0.8438 | 7.3% | 0.0786 |
-| 7 | Stacks (STX) | $0.3913 | 3.5% | 0.0645 |
-| 8 | World Liberty Financial (WLFI) | $0.0569 | 2.9% | 0.0167 |
-| 9 | Figure Heloc (FIGR_HELOC) | $1.0360 | 2.4% | 0.0015 |
-| 10 | LEO Token (LEO) | $9.0400 | 1.6% | 0.0000 |
-| 11 | Tether Gold (XAUT) | $4150.5300 | 0.5% | 0.0923 |
-| 12 | ​​Stable (STABLE) | $0.0262 | 0.4% | 0.0127 |
-| 13 | PAX Gold (PAXG) | $4153.9100 | 0.4% | 0.1089 |
-| 14 | Spiko Amundi Overnight Swap Fund (EUR) (EURSAFO) | $1.1400 | 0.3% | 0.0000 |
-| 15 | USDS (USDS) | $0.9998 | 0.1% | 0.0154 |
+| 1 | Celestia (TIA) | $0.7125 | 45.8% | 0.3378 |
+| 2 | Injective (INJ) | $9.1100 | 28.1% | 0.3787 |
+| 3 | Bitway (BTW) | $1.8200 | 15.1% | 0.0141 |
+| 4 | Aerodrome Finance (AERO) | $0.9073 | 12.1% | 0.1037 |
+| 5 | Arbitrum (ARB) | $0.2001 | 10.9% | 0.1691 |
+| 6 | Aptos (APT) | $0.8726 | 7.9% | 0.1401 |
+| 7 | NEAR Protocol (NEAR) | $5.2500 | 7.3% | 0.1960 |
+| 8 | Worldcoin (WLD) | $0.5289 | 7.3% | 0.1735 |
+| 9 | Venice Token (VVV) | $24.3100 | 7.2% | 0.0428 |
+| 10 | Filecoin (FIL) | $1.1600 | 7.1% | 0.2501 |
+| 11 | ​​Stable (STABLE) | $0.0270 | 7.0% | 0.0132 |
+| 12 | World Liberty Financial (WLFI) | $0.0570 | 5.3% | 0.0134 |
+| 13 | Pyth Network (PYTH) | $0.0880 | 4.5% | 0.1994 |
+| 14 | Pepe (PEPE) | $0.0000 | 3.8% | 0.1369 |
+| 15 | Monero (XMR) | $554.6900 | 3.7% | 0.0099 |
 
 ## 💎 Coins That Doubled (Last 21 Days)
 _No coins from the top 100 have doubled in the last 3 weeks._
