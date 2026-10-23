@@ -1,25 +1,25 @@
-# Whale & Momentum Scanner (2026-10-22 14:16 UTC)
+# Whale & Momentum Scanner (2026-10-23 13:50 UTC)
 
 *Disclaimer: Not financial advice. Data from CoinGecko.*
 
 ## 🔍 Trending Coins (Search & Interest Surge)
 | Coin | Symbol | Market Cap Rank | Trending Score |
 |------|--------|-----------------|----------------|
-| Universal High Income | UHI | 645 | 0.0 |
-| OnlyAgent | OA | 926 | 1.0 |
-| Aerodrome Finance | AERO | 90 | 2.0 |
-| Pearl | PEARL | 87 | 3.0 |
-| Monero | XMR | 13 | 4.0 |
-| NEAR Protocol | NEAR | 19 | 5.0 |
-| Ethereum | ETH | 2 | 6.0 |
-| Pudgy Penguins | PENGU | 115 | 7.0 |
-| Quantus | QTC | 717 | 8.0 |
-| Venice Token | VVV | 66 | 9.0 |
-| Bitcoin | BTC | 1 | 10.0 |
-| Sui | SUI | 29 | 11.0 |
-| Hyperliquid | HYPE | 11 | 12.0 |
-| Magma Finance | MAGMA | 334 | 13.0 |
-| Solana | SOL | 7 | 14.0 |
+| Universal High Income | UHI | 565 | 0.0 |
+| Dacity Coin | DACITY | 841 | 1.0 |
+| Pudgy Penguins | PENGU | 111 | 2.0 |
+| Pearl | PEARL | 90 | 3.0 |
+| Pepe | PEPE | 48 | 4.0 |
+| Monero | XMR | 13 | 5.0 |
+| Quantus | QTC | 718 | 6.0 |
+| Irys | IRYS | 309 | 7.0 |
+| Aerodrome Finance | AERO | 98 | 8.0 |
+| NEAR Protocol | NEAR | 19 | 9.0 |
+| Bittensor | TAO | 37 | 10.0 |
+| Zcash | ZEC | 10 | 11.0 |
+| Collector Crypt | CARDS | 140 | 12.0 |
+| Sui | SUI | 28 | 13.0 |
+| Bitcoin | BTC | 1 | 14.0 |
 
 ## 📊 Abnormal Volume (Potential Whale Activity)
 _No significant volume anomalies in the top 100._
@@ -27,21 +27,21 @@ _No significant volume anomalies in the top 100._
 ## 🚀 Top Momentum Coins (7d)
 | # | Coin | Price | 7d Change | Vol/MCap |
 |---|------|-------|-----------|----------|
-| 1 | Lighter (LIT) | $3.6500 | 24.9% | 0.1826 |
-| 2 | Venice Token (VVV) | $27.2400 | 22.7% | 0.0424 |
-| 3 | Pearl (PEARL) | $2.2000 | 19.9% | 0.0191 |
-| 4 | Worldcoin (WLD) | $0.5475 | 17.8% | 0.1501 |
-| 5 | Monero (XMR) | $619.7000 | 17.5% | 0.0213 |
-| 6 | Zcash (ZEC) | $1252.7300 | 15.9% | 0.0639 |
-| 7 | Pepe (PEPE) | $0.0000 | 15.1% | 0.1792 |
-| 8 | Pump.fun (PUMP) | $0.0048 | 14.1% | 0.0994 |
-| 9 | Injective (INJ) | $8.1100 | 13.9% | 0.1739 |
-| 10 | Ether.fi (ETHFI) | $0.6735 | 12.5% | 0.0619 |
-| 11 | MemeCore (M) | $0.9024 | 12.2% | 0.0022 |
-| 12 | Sky (SKY) | $0.0768 | 11.3% | 0.0052 |
-| 13 | NEAR Protocol (NEAR) | $5.0300 | 10.5% | 0.1309 |
-| 14 | Ethena (ENA) | $0.2020 | 9.2% | 0.2384 |
-| 15 | Arbitrum (ARB) | $0.1845 | 8.0% | 0.1629 |
+| 1 | Pepe (PEPE) | $0.0000 | 23.4% | 0.2813 |
+| 2 | Akedo (AKE) | $0.0350 | 18.1% | 0.0490 |
+| 3 | Pearl (PEARL) | $2.0000 | 13.0% | 0.0109 |
+| 4 | MemeCore (M) | $0.8908 | 8.9% | 0.0011 |
+| 5 | Monero (XMR) | $610.7800 | 8.1% | 0.0115 |
+| 6 | Lighter (LIT) | $3.3700 | 7.9% | 0.1246 |
+| 7 | Dash (DASH) | $53.8400 | 5.7% | 0.1534 |
+| 8 | Venice Token (VVV) | $26.2500 | 4.9% | 0.0248 |
+| 9 | Bitway (BTW) | $1.7700 | 4.0% | 0.0091 |
+| 10 | Pump.fun (PUMP) | $0.0046 | 2.8% | 0.0713 |
+| 11 | BNB (BNB) | $746.7000 | 1.9% | 0.0079 |
+| 12 | VeChain (VET) | $0.0073 | 1.8% | 0.0117 |
+| 13 | XDC Network (XDC) | $0.0349 | 1.8% | 0.0221 |
+| 14 | JUST (JST) | $0.1402 | 1.4% | 0.0149 |
+| 15 | Polkadot (DOT) | $1.1400 | 1.2% | 0.0963 |
 
 ## 💎 Coins That Doubled (Last 21 Days)
 _No coins from the top 100 have doubled in the last 3 weeks._
