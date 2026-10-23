@@ -1,8 +1,3 @@
-# Daily Crypto Signal (2026-10-22 14:07 UTC)
+# Daily Crypto Signal (2026-10-23 13:40 UTC)
 
-| Pair | Direction | Entry | Stop Loss | Take Profit 1 | Take Profit 2 |
-|------|-----------|-------|-----------|----------------|----------------|
-| ETHUSDT | LONG | 2442.6 | 2429.1984 | 2482.49 | 2449.19 |
-
----
-*Not financial advice.*
+**No valid setup today.** Waiting for a liquidity sweep with strong R:R.
