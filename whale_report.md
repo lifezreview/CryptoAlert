@@ -1,4 +1,4 @@
-# Whale & Momentum Scanner (2026-10-24 12:56 UTC)
+# Whale & Momentum Scanner (2026-10-24 13:02 UTC)
 
 *Disclaimer: Not financial advice. Data from CoinGecko.*
 
@@ -27,21 +27,21 @@ _No significant volume anomalies in the top 100._
 ## 🚀 Top Momentum Coins (7d)
 | # | Coin | Price | 7d Change | Vol/MCap |
 |---|------|-------|-----------|----------|
-| 1 | MemeCore (M) | $1.1200 | 42.2% | 0.0014 |
-| 2 | Pearl (PEARL) | $1.9200 | 15.3% | 0.0123 |
-| 3 | Pepe (PEPE) | $0.0000 | 9.9% | 0.2529 |
-| 4 | Monero (XMR) | $594.9400 | 7.2% | 0.0098 |
-| 5 | JUST (JST) | $0.1409 | 5.7% | 0.0208 |
-| 6 | Venice Token (VVV) | $24.1100 | 3.8% | 0.0228 |
-| 7 | Dash (DASH) | $51.3700 | 1.7% | 0.0987 |
-| 8 | BNB (BNB) | $731.8500 | 1.4% | 0.0085 |
-| 9 | Kaspa (KAS) | $0.0357 | 1.1% | 0.0094 |
-| 10 | VeChain (VET) | $0.0070 | 1.0% | 0.0135 |
-| 11 | Bitcoin Cash (BCH) | $278.1800 | 0.7% | 0.0265 |
-| 12 | Open USD (OUSD) | $0.9993 | 0.2% | 0.0001 |
-| 13 | Ondo US Dollar Yield (USDY) | $1.1500 | 0.1% | 0.0016 |
-| 14 | Invesco Short Duration US Government Securities Fund (USTB) | $11.2500 | 0.1% | 0.0000 |
-| 15 | BFUSD (BFUSD) | $0.9989 | 0.1% | 0.0015 |
+| 1 | MemeCore (M) | $1.1200 | 41.8% | 0.0014 |
+| 2 | Pearl (PEARL) | $1.9100 | 13.0% | 0.0102 |
+| 3 | Pepe (PEPE) | $0.0000 | 11.1% | 0.2519 |
+| 4 | Monero (XMR) | $594.4400 | 6.9% | 0.0098 |
+| 5 | Beldex (BDX) | $0.0796 | 6.4% | 0.0186 |
+| 6 | Venice Token (VVV) | $24.1300 | 5.0% | 0.0224 |
+| 7 | JUST (JST) | $0.1408 | 4.6% | 0.0208 |
+| 8 | Dash (DASH) | $51.1400 | 3.3% | 0.0987 |
+| 9 | BNB (BNB) | $731.6100 | 1.6% | 0.0085 |
+| 10 | VeChain (VET) | $0.0070 | 1.6% | 0.0134 |
+| 11 | Akedo (AKE) | $0.0307 | 1.4% | 0.0538 |
+| 12 | Bitcoin Cash (BCH) | $278.3000 | 1.3% | 0.0263 |
+| 13 | Kaspa (KAS) | $0.0357 | 0.6% | 0.0093 |
+| 14 | Ondo US Dollar Yield (USDY) | $1.1500 | 0.2% | 0.0010 |
+| 15 | PayPal USD (PYUSD) | $1.0000 | 0.1% | 0.0215 |
 
 ## 💎 Coins That Doubled (Last 21 Days)
 _No coins from the top 100 have doubled in the last 3 weeks._
