@@ -1,49 +1,47 @@
-# Whale & Momentum Scanner (2026-10-23 13:59 UTC)
+# Whale & Momentum Scanner (2026-10-24 12:56 UTC)
 
 *Disclaimer: Not financial advice. Data from CoinGecko.*
 
 ## 🔍 Trending Coins (Search & Interest Surge)
 | Coin | Symbol | Market Cap Rank | Trending Score |
 |------|--------|-----------------|----------------|
-| Universal High Income | UHI | 576 | 0.0 |
-| Pearl | PEARL | 90 | 1.0 |
-| Dacity Coin | DACITY | 877 | 2.0 |
-| Pudgy Penguins | PENGU | 111 | 3.0 |
-| Pepe | PEPE | 49 | 4.0 |
-| Quantus | QTC | 717 | 5.0 |
-| Irys | IRYS | 306 | 6.0 |
-| Aerodrome Finance | AERO | 98 | 7.0 |
-| Bittensor | TAO | 37 | 8.0 |
-| Monero | XMR | 13 | 9.0 |
-| Starknet | STRK | 122 | 10.0 |
-| Celestia | TIA | 108 | 11.0 |
-| Collector Crypt | CARDS | 139 | 12.0 |
-| Pump.fun | PUMP | 48 | 13.0 |
-| Bitcoin | BTC | 1 | 14.0 |
+| Hyperliquid | HYPE | 11 | 0.0 |
+| Universal High Income | UHI | 696 | 1.0 |
+| Pudgy Penguins | PENGU | 115 | 2.0 |
+| Binance Super CZ | BSC | 832 | 3.0 |
+| Dacity Coin | DACITY | 880 | 4.0 |
+| Orderly | ORDER | 595 | 5.0 |
+| Bitcoin | BTC | 1 | 6.0 |
+| Sui | SUI | 30 | 7.0 |
+| Aerodrome Finance | AERO | 100 | 8.0 |
+| Solana | SOL | 7 | 9.0 |
+| Irys | IRYS | 237 | 10.0 |
+| Ethereum | ETH | 2 | 11.0 |
+| Injective | INJ | 86 | 12.0 |
+| Bubblemaps | BMT | 698 | 13.0 |
+| Bittensor | TAO | 37 | 14.0 |
 
 ## 📊 Abnormal Volume (Potential Whale Activity)
-| Coin | 24h Volume | 7d Avg Volume | Spike Ratio | Price Change (7d) |
-|------|------------|---------------|-------------|-------------------|
-| Pepe (PEPE) | $604,072,159 | $275,418,494 | 2.2x | 23.4% |
+_No significant volume anomalies in the top 100._
 
 ## 🚀 Top Momentum Coins (7d)
 | # | Coin | Price | 7d Change | Vol/MCap |
 |---|------|-------|-----------|----------|
-| 1 | Pepe (PEPE) | $0.0000 | 23.4% | 0.2841 |
-| 2 | Akedo (AKE) | $0.0350 | 18.1% | 0.0489 |
-| 3 | Pearl (PEARL) | $1.9900 | 13.0% | 0.0109 |
-| 4 | MemeCore (M) | $0.8986 | 8.9% | 0.0012 |
-| 5 | Monero (XMR) | $606.0200 | 8.1% | 0.0115 |
-| 6 | Lighter (LIT) | $3.3500 | 7.9% | 0.1251 |
-| 7 | Dash (DASH) | $53.7300 | 5.7% | 0.1466 |
-| 8 | Venice Token (VVV) | $26.1700 | 4.9% | 0.0205 |
-| 9 | Bitway (BTW) | $1.7800 | 4.0% | 0.0091 |
-| 10 | Pump.fun (PUMP) | $0.0046 | 2.8% | 0.0707 |
-| 11 | BNB (BNB) | $746.7100 | 1.9% | 0.0079 |
-| 12 | VeChain (VET) | $0.0073 | 1.8% | 0.0106 |
-| 13 | XDC Network (XDC) | $0.0349 | 1.8% | 0.0220 |
-| 14 | JUST (JST) | $0.1402 | 1.4% | 0.0150 |
-| 15 | Polkadot (DOT) | $1.1400 | 1.2% | 0.0971 |
+| 1 | MemeCore (M) | $1.1200 | 42.2% | 0.0014 |
+| 2 | Pearl (PEARL) | $1.9200 | 15.3% | 0.0123 |
+| 3 | Pepe (PEPE) | $0.0000 | 9.9% | 0.2529 |
+| 4 | Monero (XMR) | $594.9400 | 7.2% | 0.0098 |
+| 5 | JUST (JST) | $0.1409 | 5.7% | 0.0208 |
+| 6 | Venice Token (VVV) | $24.1100 | 3.8% | 0.0228 |
+| 7 | Dash (DASH) | $51.3700 | 1.7% | 0.0987 |
+| 8 | BNB (BNB) | $731.8500 | 1.4% | 0.0085 |
+| 9 | Kaspa (KAS) | $0.0357 | 1.1% | 0.0094 |
+| 10 | VeChain (VET) | $0.0070 | 1.0% | 0.0135 |
+| 11 | Bitcoin Cash (BCH) | $278.1800 | 0.7% | 0.0265 |
+| 12 | Open USD (OUSD) | $0.9993 | 0.2% | 0.0001 |
+| 13 | Ondo US Dollar Yield (USDY) | $1.1500 | 0.1% | 0.0016 |
+| 14 | Invesco Short Duration US Government Securities Fund (USTB) | $11.2500 | 0.1% | 0.0000 |
+| 15 | BFUSD (BFUSD) | $0.9989 | 0.1% | 0.0015 |
 
 ## 💎 Coins That Doubled (Last 21 Days)
 _No coins from the top 100 have doubled in the last 3 weeks._
