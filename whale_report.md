@@ -1,25 +1,25 @@
-# Whale & Momentum Scanner (2026-11-09 19:24 UTC)
+# Whale & Momentum Scanner (2026-11-10 16:37 UTC)
 
 *Disclaimer: Not financial advice. Data from CoinGecko.*
 
 ## 🔍 Trending Coins (Search & Interest Surge)
 | Coin | Symbol | Market Cap Rank | Trending Score |
 |------|--------|-----------------|----------------|
-| Dacity Coin | DACITY | 801 | 0.0 |
-| Avalanche | AVAX | 26 | 1.0 |
-| Bitcoin | BTC | 1 | 2.0 |
-| Kinetiq | KNTQ | 239 | 3.0 |
-| Pearl | PEARL | 98 | 4.0 |
-| Quantus | QTC | 851 | 5.0 |
-| Injective | INJ | 81 | 6.0 |
-| Pudgy Penguins | PENGU | 116 | 7.0 |
-| Ondo | ONDO | 50 | 8.0 |
-| XRP | XRP | 6 | 9.0 |
-| Starknet | STRK | 131 | 10.0 |
-| Solana | SOL | 7 | 11.0 |
-| Zcash | ZEC | 10 | 12.0 |
-| Ethereum | ETH | 2 | 13.0 |
-| Lighter | LIT | 82 | 14.0 |
+| Bitcoin | BTC | 1 | 0.0 |
+| Super Inu | SI | 898 | 1.0 |
+| Initia | INIT | 367 | 2.0 |
+| Dacity Coin | DACITY | 897 | 3.0 |
+| Pepe | PEPE | 42 | 4.0 |
+| Ethereum | ETH | 2 | 5.0 |
+| Hyperliquid | HYPE | 11 | 6.0 |
+| Solana | SOL | 7 | 7.0 |
+| Avalanche | AVAX | 26 | 8.0 |
+| MegaETH | MEGA | 382 | 9.0 |
+| Zcash | ZEC | 10 | 10.0 |
+| Pudgy Penguins | PENGU | 116 | 11.0 |
+| Kinetiq | KNTQ | 230 | 12.0 |
+| Bittensor | TAO | 39 | 13.0 |
+| Lighter | LIT | 78 | 14.0 |
 
 ## 📊 Abnormal Volume (Potential Whale Activity)
 _No significant volume anomalies in the top 100._
@@ -27,21 +27,21 @@ _No significant volume anomalies in the top 100._
 ## 🚀 Top Momentum Coins (7d)
 | # | Coin | Price | 7d Change | Vol/MCap |
 |---|------|-------|-----------|----------|
-| 1 | Pieverse (PIEVERSE) | $2.2000 | 114.0% | 0.1563 |
-| 2 | Injective (INJ) | $8.1700 | 17.4% | 0.1374 |
-| 3 | Arbitrum (ARB) | $0.1779 | 13.3% | 0.2122 |
-| 4 | Pepe (PEPE) | $0.0000 | 11.3% | 0.2623 |
-| 5 | Ether.fi (ETHFI) | $0.6292 | 8.4% | 0.0737 |
-| 6 | Render (RENDER) | $1.6200 | 6.9% | 0.0520 |
-| 7 | Lighter (LIT) | $3.2400 | 6.1% | 0.1151 |
-| 8 | JUST (JST) | $0.1449 | 4.2% | 0.0285 |
-| 9 | Aave (AAVE) | $133.3800 | 4.1% | 0.1249 |
-| 10 | Jupiter (JUP) | $0.2551 | 3.9% | 0.0754 |
-| 11 | Tether Gold (XAUT) | $4085.0000 | 3.7% | 0.0686 |
-| 12 | PAX Gold (PAXG) | $4088.5700 | 3.3% | 0.0665 |
-| 13 | Pearl (PEARL) | $1.5400 | 2.4% | 0.0230 |
-| 14 | Algorand (ALGO) | $0.0929 | 2.2% | 0.0461 |
-| 15 | Avalanche (AVAX) | $8.5100 | 2.1% | 0.1299 |
+| 1 | Pieverse (PIEVERSE) | $1.9400 | 75.6% | 0.2265 |
+| 2 | Bitway (BTW) | $1.1800 | 13.6% | 0.0032 |
+| 3 | Pepe (PEPE) | $0.0000 | 8.1% | 0.2594 |
+| 4 | Ether.fi (ETHFI) | $0.6244 | 6.7% | 0.0706 |
+| 5 | Injective (INJ) | $7.7900 | 5.0% | 0.1175 |
+| 6 | Pearl (PEARL) | $1.4300 | 4.3% | 0.0216 |
+| 7 | Gate (GT) | $9.7600 | 2.7% | 0.0191 |
+| 8 | Lighter (LIT) | $3.3100 | 2.5% | 0.1008 |
+| 9 | Tether Gold (XAUT) | $4009.4200 | 2.4% | 0.0560 |
+| 10 | Render (RENDER) | $1.5400 | 2.4% | 0.0331 |
+| 11 | PAX Gold (PAXG) | $4013.0200 | 2.2% | 0.0500 |
+| 12 | Jupiter (JUP) | $0.2514 | 1.6% | 0.0772 |
+| 13 | Figure Heloc (FIGR_HELOC) | $1.0460 | 0.8% | 0.0009 |
+| 14 | Arbitrum (ARB) | $0.1577 | 0.7% | 0.1657 |
+| 15 | LEO Token (LEO) | $9.3400 | 0.6% | 0.0002 |
 
 ## 💎 Coins That Doubled (Last 21 Days)
 _No coins from the top 100 have doubled in the last 3 weeks._
