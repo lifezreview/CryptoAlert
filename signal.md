@@ -1,3 +1,3 @@
-# Daily Crypto Signal (2026-11-22 16:40 UTC)
+# Daily Crypto Signal (2026-11-23 20:26 UTC)
 
 **No valid setup today.** Waiting for a liquidity sweep with strong R:R.
