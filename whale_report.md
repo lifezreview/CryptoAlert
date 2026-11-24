@@ -1,4 +1,4 @@
-# Whale & Momentum Scanner (2026-11-24 19:43 UTC)
+# Whale & Momentum Scanner (2026-11-24 19:51 UTC)
 
 *Disclaimer: Not financial advice. Data from CoinGecko.*
 
@@ -27,20 +27,20 @@ _No significant volume anomalies in the top 100._
 ## 🚀 Top Momentum Coins (7d)
 | # | Coin | Price | 7d Change | Vol/MCap |
 |---|------|-------|-----------|----------|
-| 1 | Bitway (BTW) | $0.7681 | 74.9% | 0.0032 |
-| 2 | Pieverse (PIEVERSE) | $2.9500 | 49.4% | 0.0479 |
-| 3 | Venice Token (VVV) | $24.7400 | 23.4% | 0.0455 |
-| 4 | Midnight (NIGHT) | $0.0487 | 10.3% | 0.0214 |
-| 5 | Pearl (PEARL) | $1.9700 | 9.7% | 0.0359 |
-| 6 | JUST (JST) | $0.1464 | 2.9% | 0.0237 |
-| 7 | Algorand (ALGO) | $0.0798 | 2.6% | 0.0328 |
+| 1 | Bitway (BTW) | $0.7601 | 74.9% | 0.0032 |
+| 2 | Pieverse (PIEVERSE) | $2.9300 | 49.4% | 0.0478 |
+| 3 | Venice Token (VVV) | $24.6600 | 23.4% | 0.0465 |
+| 4 | Midnight (NIGHT) | $0.0486 | 10.3% | 0.0213 |
+| 5 | Pearl (PEARL) | $1.9800 | 9.7% | 0.0352 |
+| 6 | JUST (JST) | $0.1464 | 2.9% | 0.0235 |
+| 7 | Algorand (ALGO) | $0.0798 | 2.6% | 0.0344 |
 | 8 | Figure Heloc (FIGR_HELOC) | $1.0560 | 1.1% | 0.0017 |
-| 9 | TRON (TRX) | $0.3080 | 0.5% | 0.0112 |
-| 10 | USD1 (USD1) | $1.0000 | 0.1% | 0.2979 |
+| 9 | TRON (TRX) | $0.3079 | 0.5% | 0.0111 |
+| 10 | USD1 (USD1) | $0.9999 | 0.1% | 0.2960 |
 | 11 | Janus Henderson Anemoy AAA CLO Fund (JAAA) | $1.0580 | 0.1% | 0.0000 |
 | 12 | Circle USYC (USYC) | $1.1400 | 0.1% | 0.0000 |
 | 13 | Invesco Short Duration US Government Securities Fund (USTB) | $11.2900 | 0.1% | 0.0000 |
-| 14 | United Stables (U) | $0.9999 | 0.0% | 0.2074 |
+| 14 | United Stables (U) | $0.9999 | 0.0% | 0.2063 |
 | 15 | Open USD (OUSD) | $1.0000 | 0.0% | 0.0016 |
 
 ## 💎 Coins That Doubled (Last 21 Days)
